@@ -36,7 +36,8 @@
 					10,
 					11,
 					12
-				]
+				],
+				"price":1000
 			},
 			{
 				"name": "Peacock butterfly",
@@ -49,7 +50,8 @@
 					6,
 					7,
 					8
-				]
+				],
+				"price":2500
 			},
 			{
 				"name": "Common bluebottle",
@@ -61,8 +63,10 @@
 					6,
 					7,
 					8
-				]
+				],
+				"price":300
 			},
+			
 			{
 				"name": "Great purple emperor",
 				"Start-time": 4,
@@ -72,7 +76,8 @@
 					6,
 					7,
 					8
-				]
+				],
+				"price":3000
 			},
 			{
 				"name": "Monarch Butterfly",
@@ -82,7 +87,8 @@
 					9,
 					10,
 					11
-				]
+				],
+				"price":140
 			},
 			{
 				"name": "Agrias Butterfly",
@@ -95,7 +101,8 @@
 					7,
 					8,
 					9
-				]
+				],
+				"price":3000
 			},
 			{
 				"name": "Rajah Brooke's Birdwing",
@@ -111,7 +118,8 @@
 					8,
 					9,
 					12
-				]
+				],
+				"price":2500
 			},
 			{
 				"name": "Queen alexandrea's birdwing",
@@ -123,7 +131,8 @@
 					7,
 					8,
 					9
-				]
+				],
+				"price":4000
 			},
 			{
 				"name": "Madagascan Sunset moth",
@@ -136,7 +145,8 @@
 					7,
 					8,
 					9
-				]
+				],
+				"price":2500
 			},
 			{
 				"name": "Long locust",
@@ -151,7 +161,8 @@
 					9,
 					10,
 					11
-				]
+				],
+				"price":200
 			},
 			{
 				"name": "Migratory locust",
@@ -162,7 +173,8 @@
 					9,
 					10,
 					11
-				]
+				],
+				"price":600
 			},
 			{
 				"name": "Rice Grasshopper",
@@ -173,7 +185,8 @@
 					9,
 					10,
 					11
-				]
+				],
+				"price":160
 			},
 			{
 				"name": "Grasshopper",
@@ -183,7 +196,8 @@
 					7,
 					8,
 					9
-				]
+				],
+				"price":160
 			},
 			{
 				"name": "Yellow Butterfly",
@@ -196,7 +210,8 @@
 					6,
 					9,
 					10
-				]
+				],
+				"price":160
 			},
 			{
 				"name": "Tiger Butterfly",
@@ -210,7 +225,8 @@
 					7,
 					8,
 					9
-				]
+				],
+				"price":240
 			},
 			{
 				"name": "Mantis",
@@ -226,7 +242,8 @@
 					9,
 					10,
 					11
-				]
+				],
+				"price":430
 			},
 			{
 				"name": "Orchid Mantis",
@@ -242,7 +259,8 @@
 					9,
 					10,
 					11
-				]
+				],
+				"price":2400
 			},
 			{
 				"name": "Honey Bee",
@@ -254,7 +272,8 @@
 					5,
 					6,
 					7
-				]
+				],
+				"price":200
 			},
 			{
 				"name": "Wasp",
@@ -273,7 +292,8 @@
 					10,
 					11,
 					12
-				]
+				],
+				"price":2500
 			},
 			{
 				"name": "Stinkbug",
@@ -288,7 +308,8 @@
 					8,
 					9,
 					10
-				]
+				],
+				"price":120
 			},
 			{
 				"name": "Ladybug",
@@ -300,7 +321,8 @@
 					5,
 					6,
 					10
-				]
+				],
+				"price":200
 			},
 			{
 				"name": "Tiger Beetle",
@@ -316,7 +338,8 @@
 					8,
 					9,
 					10
-				]
+				],
+				"price":1500
 			},
 			{
 				"name": "Bagworm",
@@ -335,7 +358,8 @@
 					10,
 					11,
 					12
-				]
+				],
+				"price":600
 			},
 			{
 				"name": "Snail",
@@ -354,7 +378,8 @@
 					10,
 					11,
 					12
-				]
+				],
+				"price":250
 			},
 			{
 				"name": "Centipede",
@@ -390,7 +415,8 @@
 					10,
 					11,
 					12
-				]
+				],
+				"price":300
 			},
 			{
 				"name": "Brown cicada",
@@ -399,7 +425,8 @@
 				"Season": [
 					7,
 					8
-				]
+				],
+				"price":250
 			},
 			{
 				"name": "Robust cicada",
@@ -408,7 +435,8 @@
 				"Season": [
 					7,
 					8
-				]
+				],
+				"price":300
 			},
 			{
 				"name": "Giant cicada",
@@ -417,7 +445,8 @@
 				"Season": [
 					7,
 					8
-				]
+				],
+				"price":500
 			},
 			{
 				"name": "Walker cicada",
@@ -426,7 +455,8 @@
 				"Season": [
 					7,
 					8
-				]
+				],
+				"price":400
 			},
 			{
 				"name": "cicada shell",
@@ -435,7 +465,8 @@
 				"Season": [
 					7,
 					8
-				]
+				],
+				"price":10
 			},
 			{
 				"name": "Red Dragonfly",
@@ -444,7 +475,8 @@
 				"Season": [
 					9,
 					10
-				]
+				],
+				"price":180
 			},
 			{
 				"name": "Darner Dragonfly",
@@ -458,7 +490,8 @@
 					8,
 					9,
 					10
-				]
+				],
+				"price":230
 			},
 			{
 				"name": "Banded Dragonfly",
@@ -471,7 +504,8 @@
 					8,
 					9,
 					10
-				]
+				],
+				"price":4500
 			},
 			{
 				"name": "Mole cricket",
@@ -485,7 +519,8 @@
 					5,
 					11,
 					12
-				]
+				],
+				"price":500
 			},
 			{
 				"name": "Pondskater",
@@ -497,7 +532,8 @@
 					7,
 					8,
 					9
-				]
+				],
+				"price":130
 			},
 			{
 				"name": "Diving beetle",
@@ -509,7 +545,8 @@
 					7,
 					8,
 					9
-				]
+				],
+				"price":800
 			},
 			{
 				"name": "Jewel Beetle",
@@ -521,7 +558,8 @@
 					6,
 					7,
 					8
-				]
+				],
+				"price":2400
 			},
 			{
 				"name": "Violin Beetle",
@@ -533,7 +571,8 @@
 					9,
 					10,
 					11
-				]
+				],
+				"price":450
 			},
 			{
 				"name": "Citrus long horned beetle",
@@ -552,7 +591,8 @@
 					10,
 					11,
 					12
-				]
+				],
+				"price":350
 			},
 			{
 				"name": "Rosalia Batesi beetle",
@@ -564,7 +604,8 @@
 					7,
 					8,
 					9
-				]
+				],
+				"price":3000
 			},
 			{
 				"name": "Dung beetle",
@@ -574,7 +615,8 @@
 					1,
 					2,
 					12
-				]
+				],
+				"price":3000
 			},
 			{
 				"name": "Earth-boring dung beetle",
@@ -584,7 +626,8 @@
 					1,
 					2,
 					12
-				]
+				],
+				"price":300
 			},
 			{
 				"name": "Saw Stag",
@@ -593,7 +636,8 @@
 				"Season": [
 					7,
 					8
-				]
+				],
+				"price":2000
 			},
 			{
 				"name": "Miyama stag",
@@ -602,7 +646,8 @@
 				"Season": [
 					7,
 					8
-				]
+				],
+				"price":1000
 			},
 			{
 				"name": "Walking leaf",
@@ -612,7 +657,8 @@
 					7,
 					8,
 					9
-				]
+				],
+				"price":600
 			},
 			{
 				"name": "Ant",
@@ -631,7 +677,8 @@
 					10,
 					11,
 					12
-				]
+				],
+				"price":80
 			},
 			{
 				"name": "Fly",
@@ -650,7 +697,8 @@
 					10,
 					11,
 					12
-				]
+				],
+				"price":60
 			},
 			{
 				"name": "Flea",
@@ -665,7 +713,8 @@
 					9,
 					10,
 					11
-				]
+				],
+				"price":70
 			}
 		],
 		"fish": [
