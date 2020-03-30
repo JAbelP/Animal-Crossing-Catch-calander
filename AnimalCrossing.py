@@ -23,11 +23,12 @@ timeMonth= None
 
 class Bug:
 
-     def __init__(self,Ctype,name,time,Months,price=0):
+     def __init__(self,Ctype,name,time,Months,location,price=0):
         self.name      = name
         self.type      = Ctype
         self.time      = time
         self.Months    = Months
+        self.location  = location
         self.price     = price
         self.flickPrice= int(price*1.50)
         self.afterHourPrice = int(price*.80)
@@ -36,7 +37,7 @@ class Bug:
         return "Name: {}\nPrice: {}\nflick's price: {}\nAfter hour price: {}".format(self.name,self.price,self.flickPrice,self.afterHourPrice)
 
      def __str__(self):
-        return "Type: {} \nName: {} \nSeasons avaliable: {}".format(self.type,self.name,self.Months)
+        return "Type: {} \nName: {} \nSeasons avaliable: {}\nWhere to find: {}".format(self.type,self.name,self.Months,self.location)
 
 class Fish:
     def __init__(self,Ctype,name,startTime,endTime,month,Location):
@@ -54,9 +55,20 @@ class Fish:
 def createList():
     with open('List.json') as file:
         data = json.load(file)
+        #-debug
+        #counter = 0
         #adding bugs to the list
         for b in data['type']['bug']:
-            Bugs.append(Bug("Bug",b['name'],b['time'],b['Season'],b['price']))
+            Bugs.append(Bug("Bug",b['name'],b['time'],b['Season'],b['Location'],b['price']))
+            #Debug
+            '''
+            print("----------")
+            print(Bugs[counter])
+            print(counter)
+            #-debug1
+            #counter = counter + 1
+            '''
+
 
             '''
             #adding fishes
@@ -108,7 +120,7 @@ def whatIsAvaliableBTime():
 createList()
 whatIsAvaliableBTime()
 for insect in BugsA:
-    print(insect.printNoDetail())
+    print(insect)
     print("---------------")
 '''
 creatingList()
