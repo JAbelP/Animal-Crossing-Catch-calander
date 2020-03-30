@@ -1,0 +1,579 @@
+{
+	"type": {
+		"bug": [
+
+			{
+				"name": "Common Butterfly",
+				"Start-time": 5,
+				"End-Time": 19,
+				"Season": [
+					1,
+					2,
+					3,
+					4,
+					5,
+					6,
+					9,
+					10,
+					11,
+					12
+				],
+				"price":160
+			},
+			{
+				"name": "Paper kite Butterfly",
+				"Start-time": 8,
+				"End-Time": 19,
+				"Season": [
+					1,
+					2,
+					3,
+					4,
+					5,
+					6,
+					7,
+					8,
+					9,
+					10,
+					11,
+					12
+				]
+			},
+						
+			{
+				"name": "Peacock butterfly",
+				"Start-time": 4,
+				"End-Time": 19,
+				"Season": [
+					
+					3,
+					4,
+					5,
+					6,
+					7,
+					8
+				]
+			},
+						
+			{
+				"name": "Common bluebottle",
+				"Start-time": 4,
+				"End-Time": 19,
+				"Season": [
+					
+					4,
+					5,
+					6,
+					7,
+					8
+				]
+			},
+						{
+				"name": "Great purple emperor",
+				"Start-time": 4,
+				"End-Time": 19,
+				"Season": [
+					5,
+					6,
+					7,
+					8
+				]
+			},
+			{
+				"name": "Monarch Butterfly",
+				"Start-time": 4,
+				"End-Time": 17,
+				"Season": [
+					9,
+					10,
+					11
+				]
+			},
+			{
+				"name": "Agrias Butterfly",
+				"Start-time": 8,
+				"End-Time": 17,
+				"Season": [
+					4,
+					5,
+					6,
+					7,
+					8,
+					9
+				]
+			},
+			{
+				"name": "Rajah Brooke's Birdwing",
+				"Start-time": 8,
+				"End-Time": 17,
+				"Season": [
+					1,
+					2,
+					4,
+					5,
+					6,
+					7,
+					8,
+					9,
+					12
+				]
+			},
+			{
+				"name": "Queen alexandrea's birdwing",
+				"Start-time": 8,
+				"End-Time": 16,
+				"Season": [
+
+					5,
+					6,
+					7,
+					8,
+					9
+		
+					]
+			},
+			{
+				"name": "Madagascan Sunset moth",
+				"Start-time": 8,
+				"End-Time": 16,
+				"Season": [
+
+					4,
+					5,
+					6,
+					7,
+					8,
+					9
+
+				]
+			},
+						{
+				"name": "Long locust",
+				"Start-time": 8,
+				"End-Time": 19,
+				"Season": [
+
+					4,
+					5,
+					6,
+					7,
+					8,
+					9,
+					10,
+					11
+				]
+			},
+			{
+				"name": "Migratory locust",
+				"Start-time": 8,
+				"End-Time": 19,
+				"Season": [
+	
+					8,
+					9,
+					10,
+					11
+				]
+			},
+			{
+				"name": "Rice Grasshopper",
+				"Start-time": 8,
+				"End-Time": 19,
+				"Season": [
+
+					8,
+					9,
+					10,
+					11
+				]
+			},
+			{
+				"name": "Grasshopper",
+				"Start-time": 8,
+				"End-Time": 19,
+				"Season": [
+					7,
+					8,
+					9
+		
+				]
+			},
+		
+			{
+				"name": "Yellow Butterfly",
+				"Start-time": 4,
+				"End-Time": 19,
+				"Season": [
+					3,
+					4,
+					5,
+					6,
+					9,
+					10
+				]
+			},
+			{
+				"name": "Tiger Butterfly",
+				"Start-time": 4,
+				"End-Time": 19,
+				"Season": [
+					3,
+					4,
+					5,
+					6,
+					7,
+					8,
+					9
+				]
+			},
+			{
+				"name": "Mantis",
+				"Start-time": 8,
+				"End-Time": 17,
+				"Season": [
+					3,
+					4,
+					5,
+					6,
+					7,
+					8,
+					9,
+					10,
+					11
+				]
+			},
+			{
+				"name": "Orchid Mantis",
+				"Start-time": 8,
+				"End-Time": 17,
+				"Season": [
+					3,
+					4,
+					5,
+					6,
+					7,
+					8,
+					9,
+					10,
+					11
+				]
+			},
+			{
+				"name": "Honey Bee",
+				"Start-time": 8,
+				"End-Time": 17,
+				"Season": [
+					3,
+					4,
+					5,
+					6,
+					7
+				]
+			},
+			{
+				"name": "Wasp",
+				"Start-time": 0,
+				"End-Time": 24,
+				"Season": [
+					1,
+					2,
+					3,
+					4,
+					5,
+					6,
+					7,
+					8,
+					9,
+					10,
+					11,
+					12
+				]
+			},
+			{
+				"name": "Stinkbug",
+				"Start-time": 0,
+				"End-Time": 24,
+				"Season": [
+					3,
+					4,
+					5,
+					6,
+					7,
+					8,
+					9,
+					10
+				]
+			},
+			{
+				"name": "Ladybug",
+				"Start-time": 8,
+				"End-Time": 17,
+				"Season": [
+					3,
+					4,
+					5,
+					6,
+					10
+				]
+			},
+			{
+				"name": "Tiger Beetle",
+				"Start-time": 0,
+				"End-Time": 24,
+				"Season": [
+					2,
+					3,
+					4,
+					5,
+					6,
+					7,
+					8,
+					9,
+					10
+				]
+			},
+			{
+				"name": "Bagworm",
+				"Start-time": 0,
+				"End-Time": 24,
+				"Season": [
+					1,
+					2,
+					3,
+					4,
+					5,
+					6,
+					7,
+					8,
+					9,
+					10,
+					11,
+					12
+				]
+			},
+			{
+				"name": "Snail",
+				"Start-time": 0,
+				"End-Time": 24,
+				"Season": [
+					1,
+					2,
+					3,
+					4,
+					5,
+					6,
+					7,
+					8,
+					9,
+					10,
+					11,
+					12
+				]
+			},
+			{
+				"name": "Centipede",
+				"Start-time": 4,
+				"End-Time": 22,
+				"Season": [
+					1,
+					2,
+					3,
+					4,
+					5,
+					6,
+					9,
+					10,
+					11,
+					12
+				]
+			},
+			{
+				"name": "Wharf Roach",
+				"Start-time": 0,
+				"End-Time": 24,
+				"Season": [
+					1,
+					2,
+					3,
+					4,
+					5,
+					6,
+					7,
+					8,
+					9,
+					10,
+					11,
+					12
+				]
+			}
+		],
+					{
+				"name": "Brown cicada",
+				"Start-time": 8,
+				"End-Time": 17,
+				"Season": [
+					7,
+					8,		
+					]
+			},
+						{
+				"name": "Robust cicada",
+				"Start-time": 8,
+				"End-Time": 17,
+				"Season": [
+
+					7,
+					8
+				]
+			},
+						{
+				"name": "Giant cicada",
+				"Start-time": 8,
+				"End-Time": 17,
+				"Season": [
+
+					7,
+					8
+				]
+			},
+						{
+				"name": "Walker cicada",
+				"Start-time": 8,
+				"End-Time": 17,
+				"Season": [
+
+					7,
+					8
+				]
+			},
+			{
+				"name": "cicada shell",
+				"Start-time": 0,
+				"End-Time": 24,
+				"Season": [
+				
+					7,
+					8
+				]
+			},
+						{
+				"name": "Red Dragonfly",
+				"Start-time": 8,
+				"End-Time": 19,
+				"Season": [
+
+					9,
+					10
+				]
+			},
+			{
+				"name": Darner Dragonfly",
+				"Start-time": 8,
+				"End-Time": 17,
+				"Season": [
+					4,
+					5,
+					6,
+					7,
+					8,
+					9,
+					10
+				]
+			},
+			{
+				"name": "Banded Dragonfly",
+				"Start-time": 8,
+				"End-Time": 17,
+				"Season": [
+
+					5,
+					6,
+					7,
+					8,
+					9,
+					10
+					
+				]
+			},
+			{
+				"name": "Mole cricket",
+				"Start-time": 0,
+				"End-Time": 24,
+				"Season": [
+					1,
+					2,
+					3,
+					4,
+					5,
+					11,
+					12
+				]
+			},
+			{
+				"name": "Pondskater",
+				"Start-time": 8,
+				"End-Time": 19,
+				"Season": [
+					5,
+					6,
+					7,
+					8,
+					9
+				]
+			},
+			{
+				"name": "Diving beetle",
+				"Start-time": 8,
+				"End-Time": 19,
+				"Season": [
+					5,
+					6,
+					7,
+					8,
+					9
+				]
+			},
+			{
+				"name": "Jewel Beetle",
+				"Start-time": 0
+				"End-Time": 24
+				"Season": [
+					4,
+					5,
+					6,
+					7,
+					8
+				]
+			},
+			{
+				"name": "Violin Beetle",
+				"Start-time": 7,
+				"End-Time": 19,
+				"Season": [
+					
+					5,
+					6,
+					9,
+					10,
+					11
+				]
+			},
+			
+			
+		"fish": [
+			{
+				"name": "Bluegill",
+				"Start-time": 0,
+				"End-Time": 24,
+				"Season": [
+					3,
+					4,
+					5,
+					6,
+					7
+				],
+				"Location": "River"
+			}
+		]
+	}
+}
