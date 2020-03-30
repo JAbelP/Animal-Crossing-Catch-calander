@@ -1,7 +1,6 @@
 {
 	"type": {
 		"bug": [
-
 			{
 				"name": "Common Butterfly",
 				"Start-time": 5,
@@ -18,7 +17,7 @@
 					11,
 					12
 				],
-				"price":160
+				"price": 160
 			},
 			{
 				"name": "Paper kite Butterfly",
@@ -39,13 +38,11 @@
 					12
 				]
 			},
-						
 			{
 				"name": "Peacock butterfly",
 				"Start-time": 4,
 				"End-Time": 19,
 				"Season": [
-					
 					3,
 					4,
 					5,
@@ -54,13 +51,11 @@
 					8
 				]
 			},
-						
 			{
 				"name": "Common bluebottle",
 				"Start-time": 4,
 				"End-Time": 19,
 				"Season": [
-					
 					4,
 					5,
 					6,
@@ -68,7 +63,7 @@
 					8
 				]
 			},
-						{
+			{
 				"name": "Great purple emperor",
 				"Start-time": 4,
 				"End-Time": 19,
@@ -123,36 +118,31 @@
 				"Start-time": 8,
 				"End-Time": 16,
 				"Season": [
-
 					5,
 					6,
 					7,
 					8,
 					9
-		
-					]
+				]
 			},
 			{
 				"name": "Madagascan Sunset moth",
 				"Start-time": 8,
 				"End-Time": 16,
 				"Season": [
-
 					4,
 					5,
 					6,
 					7,
 					8,
 					9
-
 				]
 			},
-						{
+			{
 				"name": "Long locust",
 				"Start-time": 8,
 				"End-Time": 19,
 				"Season": [
-
 					4,
 					5,
 					6,
@@ -168,7 +158,6 @@
 				"Start-time": 8,
 				"End-Time": 19,
 				"Season": [
-	
 					8,
 					9,
 					10,
@@ -180,7 +169,6 @@
 				"Start-time": 8,
 				"End-Time": 19,
 				"Season": [
-
 					8,
 					9,
 					10,
@@ -195,10 +183,8 @@
 					7,
 					8,
 					9
-		
 				]
 			},
-		
 			{
 				"name": "Yellow Butterfly",
 				"Start-time": 4,
@@ -405,43 +391,39 @@
 					11,
 					12
 				]
-			}
-		],
-					{
+			},
+			{
 				"name": "Brown cicada",
 				"Start-time": 8,
 				"End-Time": 17,
 				"Season": [
 					7,
-					8,		
-					]
+					8
+				]
 			},
-						{
+			{
 				"name": "Robust cicada",
 				"Start-time": 8,
 				"End-Time": 17,
 				"Season": [
-
 					7,
 					8
 				]
 			},
-						{
+			{
 				"name": "Giant cicada",
 				"Start-time": 8,
 				"End-Time": 17,
 				"Season": [
-
 					7,
 					8
 				]
 			},
-						{
+			{
 				"name": "Walker cicada",
 				"Start-time": 8,
 				"End-Time": 17,
 				"Season": [
-
 					7,
 					8
 				]
@@ -451,23 +433,21 @@
 				"Start-time": 0,
 				"End-Time": 24,
 				"Season": [
-				
 					7,
 					8
 				]
 			},
-						{
+			{
 				"name": "Red Dragonfly",
 				"Start-time": 8,
 				"End-Time": 19,
 				"Season": [
-
 					9,
 					10
 				]
 			},
 			{
-				"name": Darner Dragonfly",
+				"name": "Darner Dragonfly",
 				"Start-time": 8,
 				"End-Time": 17,
 				"Season": [
@@ -485,14 +465,12 @@
 				"Start-time": 8,
 				"End-Time": 17,
 				"Season": [
-
 					5,
 					6,
 					7,
 					8,
 					9,
 					10
-					
 				]
 			},
 			{
@@ -535,8 +513,8 @@
 			},
 			{
 				"name": "Jewel Beetle",
-				"Start-time": 0
-				"End-Time": 24
+				"Start-time": 0,
+				"End-Time": 24,
 				"Season": [
 					4,
 					5,
@@ -550,7 +528,6 @@
 				"Start-time": 7,
 				"End-Time": 19,
 				"Season": [
-					
 					5,
 					6,
 					9,
@@ -582,7 +559,6 @@
 				"Start-time": 0,
 				"End-Time": 24,
 				"Season": [
-				
 					5,
 					6,
 					7,
@@ -600,16 +576,16 @@
 					12
 				]
 			},
-					{
+			{
 				"name": "Earth-boring dung beetle",
 				"Start-time": 0,
 				"End-Time": 24,
 				"Season": [
 					1,
-					2
+					2,
 					12
 				]
-			},		
+			},
 			{
 				"name": "Saw Stag",
 				"Start-time": 0,
@@ -628,7 +604,7 @@
 					8
 				]
 			},
-					{
+			{
 				"name": "Walking leaf",
 				"Start-time": 0,
 				"End-Time": 24,
@@ -657,7 +633,7 @@
 					12
 				]
 			},
-					{
+			{
 				"name": "Fly",
 				"Start-time": 0,
 				"End-Time": 24,
@@ -676,13 +652,11 @@
 					12
 				]
 			},
-		
-				{
+			{
 				"name": "Flea",
 				"Start-time": 0,
 				"End-Time": 24,
 				"Season": [
-					
 					4,
 					5,
 					6,
@@ -692,9 +666,8 @@
 					10,
 					11
 				]
-			},
-
-			
+			}
+		],
 		"fish": [
 			{
 				"name": "Bluegill",
