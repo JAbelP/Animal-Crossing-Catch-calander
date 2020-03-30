@@ -21,7 +21,8 @@
 					9,
 					10
 				],
-				"price": 8000
+				"price": 8000,
+				"Location": "Ground"
 			},
 			{
 				"name": "Emperor Butterfly",
@@ -41,7 +42,8 @@
 					7,
 					8
 				],
-				"price": 4000
+				"price": 4000,
+				"Location": "Flying"
 			},
 			{
 				"name": "Giant Water Bug",
@@ -61,7 +63,8 @@
 					7,
 					8
 				],
-				"price": 2000
+				"price": 2000,
+				"Location": "On ponds and Rivers"
 			},
 			{
 				"name": "Horned elephant",
@@ -81,7 +84,8 @@
 					7,
 					8
 				],
-				"price": 4000
+				"price": 4000,
+				"Location": "On Trees"
 			},
 			{
 				"name": "Evening cicada",
@@ -99,7 +103,8 @@
 					7,
 					8
 				],
-				"price": 550
+				"price": 550,
+				"Location": "On Trees"
 			},
 			{
 				"name": "Giant stag",
@@ -117,10 +122,11 @@
 					7,
 					8
 				],
-				"price": 10000
+				"price": 10000,
+				"Location": "on Trees"
 			},
 			{
-				"name": "cuclommatus stag",
+				"name": "cyclommatus stag",
 				"time": [
 					{
 						"Start-Time": 0,
@@ -135,7 +141,8 @@
 					7,
 					8
 				],
-				"price": 8000
+				"price": 8000,
+				"Location": "On Trees"
 			},
 			{
 				"name": "Golden stag",
@@ -153,7 +160,8 @@
 					7,
 					8
 				],
-				"price": 0
+				"price": 0,
+				"Location": "On Trees"
 			},
 			{
 				"name": "Giraffe Stag",
@@ -171,7 +179,8 @@
 					7,
 					8
 				],
-				"price": 4000
+				"price": 4000,
+				"Location": "On Trees"
 			},
 			{
 				"name": "Horned dynastid",
@@ -189,7 +198,8 @@
 					7,
 					8
 				],
-				"price": 1350
+				"price": 1350,
+				"Location": "On Trees"
 			},
 			{
 				"name": "horned atlas",
@@ -207,7 +217,8 @@
 					7,
 					8
 				],
-				"price": 800
+				"price": 800,
+				"Location": "On Trees"
 			},
 			{
 				"name": "horned hercules",
@@ -225,7 +236,8 @@
 					7,
 					8
 				],
-				"price": 8000
+				"price": 8000,
+				"Location": "On Trees"
 			},
 			{
 				"name": "Evening cicada",
@@ -243,7 +255,8 @@
 					7,
 					8
 				],
-				"price": 550
+				"price": 550,
+				"Location": "On Trees"
 			},
 			{
 				"name": "scarab beetle",
@@ -261,7 +274,8 @@
 					7,
 					8
 				],
-				"price": 10000
+				"price": 10000,
+				"Location": "On Trees"
 			},
 			{
 				"name": "Atlas Moth",
@@ -283,7 +297,8 @@
 					8,
 					9
 				],
-				"price": 3000
+				"price": 3000,
+				"Location": "On Trees"
 			},
 			{
 				"name": "cricket",
@@ -302,7 +317,8 @@
 					10,
 					11
 				],
-				"price": 130
+				"price": 130,
+				"Location": "On the Ground"
 			},
 			{
 				"name": "Firefly",
@@ -319,7 +335,8 @@
 				"Season": [
 					6
 				],
-				"price": 0
+				"price": 0,
+				"Location": "Flying"
 			},
 			{
 				"name": "goliath beetle",
@@ -339,7 +356,8 @@
 					8,
 					9
 				],
-				"price": 8000
+				"price": 8000,
+				"Location": "On Trees (Coconut)"
 			},
 			{
 				"name": "Rainbow stag",
@@ -359,7 +377,8 @@
 					8,
 					9
 				],
-				"price": 6000
+				"price": 6000,
+				"Location": "On Trees"
 			},
 			{
 				"name": "walking stick",
@@ -381,7 +400,8 @@
 					11,
 					12
 				],
-				"price": 600
+				"price": 600,
+				"Location": "On Trees"
 			},
 			{
 				"name": "mosquito",
@@ -401,7 +421,8 @@
 					8,
 					9
 				],
-				"price": 130
+				"price": 130,
+				"Location": "Flying"
 			},
 			{
 				"name": "pill bug",
@@ -429,7 +450,8 @@
 					11,
 					12
 				],
-				"price": 250
+				"price": 250,
+				"Location": "Hitting Rocks"
 			},
 			{
 				"name": "Spider",
@@ -457,7 +479,8 @@
 					11,
 					12
 				],
-				"price": 480
+				"price": 480,
+				"Location": "Shaking Trees"
 			},
 			{
 				"name": "Scorpion",
@@ -479,7 +502,8 @@
 					9,
 					10
 				],
-				"price": 8000
+				"price": 8000,
+				"Location": "Shake Trees"
 			},
 			{
 				"name": "Moth",
@@ -507,7 +531,8 @@
 					11,
 					12
 				],
-				"price": 130
+				"price": 130,
+				"Location": "Flying by lights"
 			},
 			{
 				"name": "Man-faced Stinkbug",
@@ -531,7 +556,8 @@
 					9,
 					10
 				],
-				"price": 1000
+				"price": 1000,
+				"Location": "On flowers"
 			},
 			{
 				"name": "Hermit crab",
@@ -559,7 +585,8 @@
 					11,
 					12
 				],
-				"price": 1000
+				"price": 1000,
+				"Location": "On beach (look like shells)"
 			},
 			{
 				"name": "Common Butterfly",
@@ -581,7 +608,8 @@
 					11,
 					12
 				],
-				"price": 160
+				"price": 160,
+				"Location": "Flying"
 			},
 			{
 				"name": "Paper kite Butterfly",
@@ -605,7 +633,8 @@
 					11,
 					12
 				],
-				"price": 1000
+				"price": 1000,
+				"Location": "Flying"
 			},
 			{
 				"name": "Peacock butterfly",
@@ -623,7 +652,8 @@
 					7,
 					8
 				],
-				"price": 2500
+				"price": 2500,
+				"Location": "Flying by Hybrid Flowers"
 			},
 			{
 				"name": "Common bluebottle",
@@ -640,7 +670,8 @@
 					7,
 					8
 				],
-				"price": 300
+				"price": 300,
+				"Location": "Flying"
 			},
 			{
 				"name": "Great purple emperor",
@@ -656,7 +687,8 @@
 					7,
 					8
 				],
-				"price": 3000
+				"price": 3000,
+				"Location": "Flying"
 			},
 			{
 				"name": "Monarch Butterfly",
@@ -671,7 +703,8 @@
 					10,
 					11
 				],
-				"price": 140
+				"price": 140,
+				"Location": "Flying"
 			},
 			{
 				"name": "Agrias Butterfly",
@@ -689,7 +722,8 @@
 					8,
 					9
 				],
-				"price": 3000
+				"price": 3000,
+				"Location": "Flying"
 			},
 			{
 				"name": "Rajah Brooke's Birdwing",
@@ -710,7 +744,8 @@
 					9,
 					12
 				],
-				"price": 2500
+				"price": 2500,
+				"Location": "Flying"
 			},
 			{
 				"name": "Queen alexandrea's birdwing",
@@ -727,7 +762,8 @@
 					8,
 					9
 				],
-				"price": 4000
+				"price": 4000,
+				"Location": "Flying"
 			},
 			{
 				"name": "Madagascan Sunset moth",
@@ -745,7 +781,8 @@
 					8,
 					9
 				],
-				"price": 2500
+				"price": 2500,
+				"Location": "Flying"
 			},
 			{
 				"name": "Long locust",
@@ -765,7 +802,8 @@
 					10,
 					11
 				],
-				"price": 200
+				"price": 200,
+				"Location": "On the Ground"
 			},
 			{
 				"name": "Migratory locust",
@@ -781,7 +819,8 @@
 					10,
 					11
 				],
-				"price": 600
+				"price": 600,
+				"Location": "On the Ground"
 			},
 			{
 				"name": "Rice Grasshopper",
@@ -797,7 +836,8 @@
 					10,
 					11
 				],
-				"price": 160
+				"price": 160,
+				"Location": "On the Ground"
 			},
 			{
 				"name": "Grasshopper",
@@ -812,7 +852,8 @@
 					8,
 					9
 				],
-				"price": 160
+				"price": 160,
+				"Location": "On the Ground"
 			},
 			{
 				"name": "Yellow Butterfly",
@@ -830,7 +871,8 @@
 					9,
 					10
 				],
-				"price": 160
+				"price": 160,
+				"Location": "Flying"
 			},
 			{
 				"name": "Tiger Butterfly",
@@ -849,7 +891,8 @@
 					8,
 					9
 				],
-				"price": 240
+				"price": 240,
+				"Location": "Flying"
 			},
 			{
 				"name": "Mantis",
@@ -870,7 +913,8 @@
 					10,
 					11
 				],
-				"price": 430
+				"price": 430,
+				"Location": "Mantis"
 			},
 			{
 				"name": "Orchid Mantis",
@@ -891,7 +935,8 @@
 					10,
 					11
 				],
-				"price": 2400
+				"price": 2400,
+				"Location": "On Flowers (White)"
 			},
 			{
 				"name": "Honey Bee",
@@ -908,7 +953,8 @@
 					6,
 					7
 				],
-				"price": 200
+				"price": 200,
+				"Location": "Flying"
 			},
 			{
 				"name": "Wasp",
@@ -932,7 +978,8 @@
 					11,
 					12
 				],
-				"price": 2500
+				"price": 2500,
+				"Location": "Shake Trees"
 			},
 			{
 				"name": "Stinkbug",
@@ -952,7 +999,8 @@
 					9,
 					10
 				],
-				"price": 120
+				"price": 120,
+				"Location": "On Flowers"
 			},
 			{
 				"name": "Ladybug",
@@ -969,7 +1017,8 @@
 					6,
 					10
 				],
-				"price": 200
+				"price": 200,
+				"Location": "On Flowers"
 			},
 			{
 				"name": "Tiger Beetle",
@@ -990,7 +1039,8 @@
 					9,
 					10
 				],
-				"price": 1500
+				"price": 1500,
+				"Location": "On Ground"
 			},
 			{
 				"name": "Bagworm",
@@ -1014,7 +1064,8 @@
 					11,
 					12
 				],
-				"price": 600
+				"price": 600,
+				"Location": "Shake Trees"
 			},
 			{
 				"name": "Snail",
@@ -1038,7 +1089,8 @@
 					11,
 					12
 				],
-				"price": 250
+				"price": 250,
+				"Location": "On Rocks (Rain)"
 			},
 			{
 				"name": "Centipede",
@@ -1060,7 +1112,8 @@
 					11,
 					12
 				],
-				"price": 300
+				"price": 300,
+				"Location": "Hitting Rocks"
 			},
 			{
 				"name": "Wharf Roach",
@@ -1084,7 +1137,8 @@
 					11,
 					12
 				],
-				"price": 300
+				"price": 300,
+				"Location": "On Beach Rocks"
 			},
 			{
 				"name": "Brown cicada",
@@ -1098,7 +1152,8 @@
 					7,
 					8
 				],
-				"price": 250
+				"price": 250,
+				"Location": "On Trees"
 			},
 			{
 				"name": "Robust cicada",
@@ -1112,7 +1167,8 @@
 					7,
 					8
 				],
-				"price": 300
+				"price": 300,
+				"Location": "On Trees"
 			},
 			{
 				"name": "Giant cicada",
@@ -1126,7 +1182,8 @@
 					7,
 					8
 				],
-				"price": 500
+				"price": 500,
+				"Location": "On Trees"
 			},
 			{
 				"name": "Walker cicada",
@@ -1140,7 +1197,8 @@
 					7,
 					8
 				],
-				"price": 400
+				"price": 400,
+				"Location": "On Trees"
 			},
 			{
 				"name": "cicada shell",
@@ -1154,7 +1212,8 @@
 					7,
 					8
 				],
-				"price": 10
+				"price": 10,
+				"Location": "On Trees"
 			},
 			{
 				"name": "Red Dragonfly",
@@ -1168,7 +1227,8 @@
 					9,
 					10
 				],
-				"price": 180
+				"price": 180,
+				"Location": "Flying"
 			},
 			{
 				"name": "Darner Dragonfly",
@@ -1187,7 +1247,8 @@
 					9,
 					10
 				],
-				"price": 230
+				"price": 230,
+				"Location": "Flying"
 			},
 			{
 				"name": "Banded Dragonfly",
@@ -1205,7 +1266,8 @@
 					9,
 					10
 				],
-				"price": 4500
+				"price": 4500,
+				"Location": "Flying"
 			},
 			{
 				"name": "Mole cricket",
@@ -1224,7 +1286,8 @@
 					11,
 					12
 				],
-				"price": 500
+				"price": 500,
+				"Location": "Underground"
 			},
 			{
 				"name": "Pondskater",
@@ -1241,7 +1304,8 @@
 					8,
 					9
 				],
-				"price": 130
+				"price": 130,
+				"Location": "On Ponds and Rivers"
 			},
 			{
 				"name": "Diving beetle",
@@ -1258,7 +1322,8 @@
 					8,
 					9
 				],
-				"price": 800
+				"price": 800,
+				"Location": "On Ponds and Rivers"
 			},
 			{
 				"name": "Jewel Beetle",
@@ -1275,7 +1340,8 @@
 					7,
 					8
 				],
-				"price": 2400
+				"price": 2400,
+				"Location": "On Tree Stumps"
 			},
 			{
 				"name": "Violin Beetle",
@@ -1292,7 +1358,8 @@
 					10,
 					11
 				],
-				"price": 450
+				"price": 450,
+				"Location": "On Tree Stumps"
 			},
 			{
 				"name": "Citrus long horned beetle",
@@ -1316,7 +1383,8 @@
 					11,
 					12
 				],
-				"price": 350
+				"price": 350,
+				"Location": "On Tree Stumps"
 			},
 			{
 				"name": "Rosalia Batesi beetle",
@@ -1333,7 +1401,8 @@
 					8,
 					9
 				],
-				"price": 3000
+				"price": 3000,
+				"Location": "On Tree Stumps"
 			},
 			{
 				"name": "Dung beetle",
@@ -1348,7 +1417,8 @@
 					2,
 					12
 				],
-				"price": 3000
+				"price": 3000,
+				"Location": "On the Ground (rolling snowballs)"
 			},
 			{
 				"name": "Earth-boring dung beetle",
@@ -1363,7 +1433,8 @@
 					2,
 					12
 				],
-				"price": 300
+				"price": 300,
+				"Location": "On the Ground"
 			},
 			{
 				"name": "Saw Stag",
@@ -1377,7 +1448,8 @@
 					7,
 					8
 				],
-				"price": 2000
+				"price": 2000,
+				"Location": "On the ground"
 			},
 			{
 				"name": "Miyama stag",
@@ -1391,7 +1463,8 @@
 					7,
 					8
 				],
-				"price": 1000
+				"price": 1000,
+				"Location": "On Trees"
 			},
 			{
 				"name": "Walking leaf",
@@ -1406,7 +1479,8 @@
 					8,
 					9
 				],
-				"price": 600
+				"price": 600,
+				"Location": "Under Trees Disguised as Leafs"
 			},
 			{
 				"name": "Ant",
@@ -1430,7 +1504,8 @@
 					11,
 					12
 				],
-				"price": 80
+				"price": 80,
+				"Location": "On Rotten Food"
 			},
 			{
 				"name": "Fly",
@@ -1454,7 +1529,8 @@
 					11,
 					12
 				],
-				"price": 60
+				"price": 60,
+				"Location": "On Trash Items"
 			},
 			{
 				"name": "Flea",
@@ -1474,7 +1550,8 @@
 					10,
 					11
 				],
-				"price": 70
+				"price": 70,
+				"Location": "Villager's Head"
 			}
 		],
 		"fish": [
