@@ -73,7 +73,7 @@ class Fish:
         self.type      = Ctype
         self.startTime = startTime
         self.endTime   = endTime
-        self.month    = month
+        self.month     = month
         self.Location  = Location
 
     def __str__(self):
