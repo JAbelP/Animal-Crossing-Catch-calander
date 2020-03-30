@@ -4,9 +4,9 @@ currently it tells you what bugs you can catch right now based off of season, it
 
 
 things to come. 
-fish!
-southern hemphispere
-Odd timed bugs and fish.
-price (Nook prices, after hour prices, and Flick and cj prices)
-where to find the fish or bug.
-suggestions on what to get 
+•fish!
+•southern hemphispere
+•Odd timed bugs and fish.
+•price (Nook prices, after hour prices, and Flick and cj prices)(Fishes)
+•where to find the fish or bug.
+•suggestions on what to get 
