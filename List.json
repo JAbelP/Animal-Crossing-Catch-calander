@@ -2,9 +2,573 @@
 	"type": {
 		"bug": [
 			{
+				"name": "Tarantula",
+				"time": [
+					{
+						"Start-Time": 19,
+						"End-Time": 24
+					},
+					{
+						"Start-Time": 0,
+						"End-Time": 4
+					}
+				],
+				"Season": [
+					5,
+					6,
+					7,
+					8,
+					9,
+					10
+				],
+				"price": 8000
+			},
+			{
+				"name": "Emperor Butterfly",
+				"time": [
+					{
+						"Start-Time": 0,
+						"End-Time": 8
+					},
+					{
+						"Start-Time": 17,
+						"End-Time": 24
+					}
+				],
+				"Season": [
+					5,
+					6,
+					7,
+					8
+				],
+				"price": 4000
+			},
+			{
+				"name": "Giant Water Bug",
+				"time": [
+					{
+						"Start-Time": 0,
+						"End-Time": 8
+					},
+					{
+						"Start-Time": 19,
+						"End-Time": 24
+					}
+				],
+				"Season": [
+					5,
+					6,
+					7,
+					8
+				],
+				"price": 2000
+			},
+			{
+				"name": "Horned elephant",
+				"time": [
+					{
+						"Start-Time": 0,
+						"End-Time": 8
+					},
+					{
+						"Start-Time": 17,
+						"End-Time": 24
+					}
+				],
+				"Season": [
+					5,
+					6,
+					7,
+					8
+				],
+				"price": 4000
+			},
+			{
+				"name": "Evening cicada",
+				"time": [
+					{
+						"Start-Time": 4,
+						"End-Time": 8
+					},
+					{
+						"Start-Time": 16,
+						"End-Time": 19
+					}
+				],
+				"Season": [
+					7,
+					8
+				],
+				"price": 550
+			},
+			{
+				"name": "Giant stag",
+				"time": [
+					{
+						"Start-Time": 0,
+						"End-Time": 8
+					},
+					{
+						"Start-Time": 23,
+						"End-Time": 24
+					}
+				],
+				"Season": [
+					7,
+					8
+				],
+				"price": 10000
+			},
+			{
+				"name": "cuclommatus stag",
+				"time": [
+					{
+						"Start-Time": 0,
+						"End-Time": 8
+					},
+					{
+						"Start-Time": 17,
+						"End-Time": 24
+					}
+				],
+				"Season": [
+					7,
+					8
+				],
+				"price": 8000
+			},
+			{
+				"name": "Golden stag",
+				"time": [
+					{
+						"Start-Time": 0,
+						"End-Time": 8
+					},
+					{
+						"Start-Time": 17,
+						"End-Time": 24
+					}
+				],
+				"Season": [
+					7,
+					8
+				],
+				"price": 0
+			},
+			{
+				"name": "Giraffe Stag",
+				"time": [
+					{
+						"Start-Time": 0,
+						"End-Time": 8
+					},
+					{
+						"Start-Time": 17,
+						"End-Time": 24
+					}
+				],
+				"Season": [
+					7,
+					8
+				],
+				"price": 4000
+			},
+			{
+				"name": "Horned dynastid",
+				"time": [
+					{
+						"Start-Time": 0,
+						"End-Time": 8
+					},
+					{
+						"Start-Time": 17,
+						"End-Time": 24
+					}
+				],
+				"Season": [
+					7,
+					8
+				],
+				"price": 1350
+			},
+			{
+				"name": "horned atlas",
+				"time": [
+					{
+						"Start-Time": 0,
+						"End-Time": 8
+					},
+					{
+						"Start-Time": 17,
+						"End-Time": 24
+					}
+				],
+				"Season": [
+					7,
+					8
+				],
+				"price": 800
+			},
+			{
+				"name": "horned hercules",
+				"time": [
+					{
+						"Start-Time": 0,
+						"End-Time": 8
+					},
+					{
+						"Start-Time": 17,
+						"End-Time": 24
+					}
+				],
+				"Season": [
+					7,
+					8
+				],
+				"price": 8000
+			},
+			{
+				"name": "Evening cicada",
+				"time": [
+					{
+						"Start-Time": 4,
+						"End-Time": 8
+					},
+					{
+						"Start-Time": 16,
+						"End-Time": 19
+					}
+				],
+				"Season": [
+					7,
+					8
+				],
+				"price": 550
+			},
+			{
+				"name": "scarab beetle",
+				"time": [
+					{
+						"Start-Time": 0,
+						"End-Time": 8
+					},
+					{
+						"Start-Time": 23,
+						"End-Time": 24
+					}
+				],
+				"Season": [
+					7,
+					8
+				],
+				"price": 10000
+			},
+			{
+				"name": "Atlas Moth",
+				"time": [
+					{
+						"Start-Time": 0,
+						"End-Time": 4
+					},
+					{
+						"Start-Time": 19,
+						"End-Time": 24
+					}
+				],
+				"Season": [
+					4,
+					5,
+					6,
+					7,
+					8,
+					9
+				],
+				"price": 3000
+			},
+			{
+				"name": "cricket",
+				"time": [
+					{
+						"Start-Time": 0,
+						"End-Time": 8
+					},
+					{
+						"Start-Time": 17,
+						"End-Time": 24
+					}
+				],
+				"Season": [
+					9,
+					10,
+					11
+				],
+				"price": 130
+			},
+			{
+				"name": "Firefly",
+				"time": [
+					{
+						"Start-Time": 0,
+						"End-Time": 4
+					},
+					{
+						"Start-Time": 19,
+						"End-Time": 24
+					}
+				],
+				"Season": [
+					6
+				],
+				"price": 0
+			},
+			{
+				"name": "goliath beetle",
+				"time": [
+					{
+						"Start-Time": 0,
+						"End-Time": 8
+					},
+					{
+						"Start-Time": 17,
+						"End-Time": 24
+					}
+				],
+				"Season": [
+					6,
+					7,
+					8,
+					9
+				],
+				"price": 8000
+			},
+			{
+				"name": "Rainbow stag",
+				"time": [
+					{
+						"Start-Time": 0,
+						"End-Time": 8
+					},
+					{
+						"Start-Time": 19,
+						"End-Time": 24
+					}
+				],
+				"Season": [
+					6,
+					7,
+					8,
+					9
+				],
+				"price": 6000
+			},
+			{
+				"name": "walking stick",
+				"time": [
+					{
+						"Start-Time": 0,
+						"End-Time": 8
+					},
+					{
+						"Start-Time": 17,
+						"End-Time": 24
+					}
+				],
+				"Season": [
+					7,
+					8,
+					9,
+					10,
+					11,
+					12
+				],
+				"price": 600
+			},
+			{
+				"name": "mosquito",
+				"time": [
+					{
+						"Start-Time": 0,
+						"End-Time": 4
+					},
+					{
+						"Start-Time": 17,
+						"End-Time": 24
+					}
+				],
+				"Season": [
+					6,
+					7,
+					8,
+					9
+				],
+				"price": 130
+			},
+			{
+				"name": "pill bug",
+				"time": [
+					{
+						"Start-Time": 0,
+						"End-Time": 16
+					},
+					{
+						"Start-Time": 23,
+						"End-Time": 24
+					}
+				],
+				"Season": [
+					1,
+					2,
+					3,
+					4,
+					5,
+					6,
+					7,
+					8,
+					9,
+					10,
+					11,
+					12
+				],
+				"price": 250
+			},
+			{
+				"name": "Spider",
+				"time": [
+					{
+						"Start-Time": 0,
+						"End-Time": 8
+					},
+					{
+						"Start-Time": 17,
+						"End-Time": 24
+					}
+				],
+				"Season": [
+					1,
+					2,
+					3,
+					4,
+					5,
+					6,
+					7,
+					8,
+					9,
+					10,
+					11,
+					12
+				],
+				"price": 480
+			},
+			{
+				"name": "Scorpion",
+				"time": [
+					{
+						"Start-Time": 0,
+						"End-Time": 8
+					},
+					{
+						"Start-Time": 17,
+						"End-Time": 24
+					}
+				],
+				"Season": [
+					5,
+					6,
+					7,
+					8,
+					9,
+					10
+				],
+				"price": 8000
+			},
+			{
+				"name": "Moth",
+				"time": [
+					{
+						"Start-Time": 0,
+						"End-Time": 4
+					},
+					{
+						"Start-Time": 19,
+						"End-Time": 24
+					}
+				],
+				"Season": [
+					1,
+					2,
+					3,
+					4,
+					5,
+					6,
+					7,
+					8,
+					9,
+					10,
+					11,
+					12
+				],
+				"price": 130
+			},
+			{
+				"name": "Man-faced Stinkbug",
+				"time": [
+					{
+						"Start-Time": 0,
+						"End-Time": 8
+					},
+					{
+						"Start-Time": 19,
+						"End-Time": 24
+					}
+				],
+				"Season": [
+					3,
+					4,
+					5,
+					6,
+					7,
+					8,
+					9,
+					10
+				],
+				"price": 1000
+			},
+			{
+				"name": "Hermit crab",
+				"time": [
+					{
+						"Start-Time": 0,
+						"End-Time": 8
+					},
+					{
+						"Start-Time": 19,
+						"End-Time": 24
+					}
+				],
+				"Season": [
+					1,
+					2,
+					3,
+					4,
+					5,
+					6,
+					7,
+					8,
+					9,
+					10,
+					11,
+					12
+				],
+				"price": 1000
+			},
+			{
 				"name": "Common Butterfly",
-				"Start-time": 5,
-				"End-Time": 19,
+				"time": [
+					{
+						"Start-Time": 4,
+						"End-Time": 19
+					}
+				],
 				"Season": [
 					1,
 					2,
@@ -21,8 +585,12 @@
 			},
 			{
 				"name": "Paper kite Butterfly",
-				"Start-time": 8,
-				"End-Time": 19,
+				"time": [
+					{
+						"Start-Time": 5,
+						"End-Time": 19
+					}
+				],
 				"Season": [
 					1,
 					2,
@@ -37,12 +605,16 @@
 					11,
 					12
 				],
-				"price":1000
+				"price": 1000
 			},
 			{
 				"name": "Peacock butterfly",
-				"Start-time": 4,
-				"End-Time": 19,
+				"time": [
+					{
+						"Start-Time": 4,
+						"End-Time": 19
+					}
+				],
 				"Season": [
 					3,
 					4,
@@ -51,12 +623,16 @@
 					7,
 					8
 				],
-				"price":2500
+				"price": 2500
 			},
 			{
 				"name": "Common bluebottle",
-				"Start-time": 4,
-				"End-Time": 19,
+				"time": [
+					{
+						"Start-Time": 4,
+						"End-Time": 19
+					}
+				],
 				"Season": [
 					4,
 					5,
@@ -64,36 +640,47 @@
 					7,
 					8
 				],
-				"price":300
+				"price": 300
 			},
-			
 			{
 				"name": "Great purple emperor",
-				"Start-time": 4,
-				"End-Time": 19,
+				"time": [
+					{
+						"Start-Time": 4,
+						"End-Time": 19
+					}
+				],
 				"Season": [
 					5,
 					6,
 					7,
 					8
 				],
-				"price":3000
+				"price": 3000
 			},
 			{
 				"name": "Monarch Butterfly",
-				"Start-time": 4,
-				"End-Time": 17,
+				"time": [
+					{
+						"Start-Time": 4,
+						"End-Time": 17
+					}
+				],
 				"Season": [
 					9,
 					10,
 					11
 				],
-				"price":140
+				"price": 140
 			},
 			{
 				"name": "Agrias Butterfly",
-				"Start-time": 8,
-				"End-Time": 17,
+				"time": [
+					{
+						"Start-Time": 8,
+						"End-Time": 17
+					}
+				],
 				"Season": [
 					4,
 					5,
@@ -102,12 +689,16 @@
 					8,
 					9
 				],
-				"price":3000
+				"price": 3000
 			},
 			{
 				"name": "Rajah Brooke's Birdwing",
-				"Start-time": 8,
-				"End-Time": 17,
+				"time": [
+					{
+						"Start-Time": 8,
+						"End-Time": 17
+					}
+				],
 				"Season": [
 					1,
 					2,
@@ -119,12 +710,16 @@
 					9,
 					12
 				],
-				"price":2500
+				"price": 2500
 			},
 			{
 				"name": "Queen alexandrea's birdwing",
-				"Start-time": 8,
-				"End-Time": 16,
+				"time": [
+					{
+						"Start-Time": 8,
+						"End-Time": 16
+					}
+				],
 				"Season": [
 					5,
 					6,
@@ -132,12 +727,16 @@
 					8,
 					9
 				],
-				"price":4000
+				"price": 4000
 			},
 			{
 				"name": "Madagascan Sunset moth",
-				"Start-time": 8,
-				"End-Time": 16,
+				"time": [
+					{
+						"Start-Time": 8,
+						"End-Time": 16
+					}
+				],
 				"Season": [
 					4,
 					5,
@@ -146,12 +745,16 @@
 					8,
 					9
 				],
-				"price":2500
+				"price": 2500
 			},
 			{
 				"name": "Long locust",
-				"Start-time": 8,
-				"End-Time": 19,
+				"time": [
+					{
+						"Start-Time": 8,
+						"End-Time": 19
+					}
+				],
 				"Season": [
 					4,
 					5,
@@ -162,47 +765,63 @@
 					10,
 					11
 				],
-				"price":200
+				"price": 200
 			},
 			{
 				"name": "Migratory locust",
-				"Start-time": 8,
-				"End-Time": 19,
+				"time": [
+					{
+						"Start-Time": 8,
+						"End-Time": 19
+					}
+				],
 				"Season": [
 					8,
 					9,
 					10,
 					11
 				],
-				"price":600
+				"price": 600
 			},
 			{
 				"name": "Rice Grasshopper",
-				"Start-time": 8,
-				"End-Time": 19,
+				"time": [
+					{
+						"Start-Time": 8,
+						"End-Time": 19
+					}
+				],
 				"Season": [
 					8,
 					9,
 					10,
 					11
 				],
-				"price":160
+				"price": 160
 			},
 			{
 				"name": "Grasshopper",
-				"Start-time": 8,
-				"End-Time": 19,
+				"time": [
+					{
+						"Start-Time": 8,
+						"End-Time": 19
+					}
+				],
 				"Season": [
 					7,
 					8,
 					9
 				],
-				"price":160
+				"price": 160
 			},
 			{
 				"name": "Yellow Butterfly",
-				"Start-time": 4,
-				"End-Time": 19,
+				"time": [
+					{
+						"Start-Time": 4,
+						"End-Time": 19
+					}
+				],
 				"Season": [
 					3,
 					4,
@@ -211,12 +830,16 @@
 					9,
 					10
 				],
-				"price":160
+				"price": 160
 			},
 			{
 				"name": "Tiger Butterfly",
-				"Start-time": 4,
-				"End-Time": 19,
+				"time": [
+					{
+						"Start-Time": 4,
+						"End-Time": 19
+					}
+				],
 				"Season": [
 					3,
 					4,
@@ -226,12 +849,16 @@
 					8,
 					9
 				],
-				"price":240
+				"price": 240
 			},
 			{
 				"name": "Mantis",
-				"Start-time": 8,
-				"End-Time": 17,
+				"time": [
+					{
+						"Start-Time": 8,
+						"End-Time": 17
+					}
+				],
 				"Season": [
 					3,
 					4,
@@ -243,12 +870,16 @@
 					10,
 					11
 				],
-				"price":430
+				"price": 430
 			},
 			{
 				"name": "Orchid Mantis",
-				"Start-time": 8,
-				"End-Time": 17,
+				"time": [
+					{
+						"Start-Time": 8,
+						"End-Time": 17
+					}
+				],
 				"Season": [
 					3,
 					4,
@@ -260,12 +891,16 @@
 					10,
 					11
 				],
-				"price":2400
+				"price": 2400
 			},
 			{
 				"name": "Honey Bee",
-				"Start-time": 8,
-				"End-Time": 17,
+				"time": [
+					{
+						"Start-Time": 8,
+						"End-Time": 17
+					}
+				],
 				"Season": [
 					3,
 					4,
@@ -273,12 +908,16 @@
 					6,
 					7
 				],
-				"price":200
+				"price": 200
 			},
 			{
 				"name": "Wasp",
-				"Start-time": 0,
-				"End-Time": 24,
+				"time": [
+					{
+						"Start-Time": 0,
+						"End-Time": 24
+					}
+				],
 				"Season": [
 					1,
 					2,
@@ -293,12 +932,16 @@
 					11,
 					12
 				],
-				"price":2500
+				"price": 2500
 			},
 			{
 				"name": "Stinkbug",
-				"Start-time": 0,
-				"End-Time": 24,
+				"time": [
+					{
+						"Start-Time": 0,
+						"End-Time": 24
+					}
+				],
 				"Season": [
 					3,
 					4,
@@ -309,12 +952,16 @@
 					9,
 					10
 				],
-				"price":120
+				"price": 120
 			},
 			{
 				"name": "Ladybug",
-				"Start-time": 8,
-				"End-Time": 17,
+				"time": [
+					{
+						"Start-Time": 8,
+						"End-Time": 17
+					}
+				],
 				"Season": [
 					3,
 					4,
@@ -322,12 +969,16 @@
 					6,
 					10
 				],
-				"price":200
+				"price": 200
 			},
 			{
 				"name": "Tiger Beetle",
-				"Start-time": 0,
-				"End-Time": 24,
+				"time": [
+					{
+						"Start-Time": 0,
+						"End-Time": 24
+					}
+				],
 				"Season": [
 					2,
 					3,
@@ -339,12 +990,16 @@
 					9,
 					10
 				],
-				"price":1500
+				"price": 1500
 			},
 			{
 				"name": "Bagworm",
-				"Start-time": 0,
-				"End-Time": 24,
+				"time": [
+					{
+						"Start-Time": 0,
+						"End-Time": 24
+					}
+				],
 				"Season": [
 					1,
 					2,
@@ -359,12 +1014,16 @@
 					11,
 					12
 				],
-				"price":600
+				"price": 600
 			},
 			{
 				"name": "Snail",
-				"Start-time": 0,
-				"End-Time": 24,
+				"time": [
+					{
+						"Start-Time": 0,
+						"End-Time": 24
+					}
+				],
 				"Season": [
 					1,
 					2,
@@ -379,12 +1038,16 @@
 					11,
 					12
 				],
-				"price":250
+				"price": 250
 			},
 			{
 				"name": "Centipede",
-				"Start-time": 4,
-				"End-Time": 22,
+				"time": [
+					{
+						"Start-Time": 4,
+						"End-Time": 22
+					}
+				],
 				"Season": [
 					1,
 					2,
@@ -397,12 +1060,16 @@
 					11,
 					12
 				],
-				"price":300
+				"price": 300
 			},
 			{
 				"name": "Wharf Roach",
-				"Start-time": 0,
-				"End-Time": 24,
+				"time": [
+					{
+						"Start-Time": 0,
+						"End-Time": 24
+					}
+				],
 				"Season": [
 					1,
 					2,
@@ -417,72 +1084,100 @@
 					11,
 					12
 				],
-				"price":300
+				"price": 300
 			},
 			{
 				"name": "Brown cicada",
-				"Start-time": 8,
-				"End-Time": 17,
+				"time": [
+					{
+						"Start-Time": 8,
+						"End-Time": 17
+					}
+				],
 				"Season": [
 					7,
 					8
 				],
-				"price":250
+				"price": 250
 			},
 			{
 				"name": "Robust cicada",
-				"Start-time": 8,
-				"End-Time": 17,
+				"time": [
+					{
+						"Start-Time": 8,
+						"End-Time": 17
+					}
+				],
 				"Season": [
 					7,
 					8
 				],
-				"price":300
+				"price": 300
 			},
 			{
 				"name": "Giant cicada",
-				"Start-time": 8,
-				"End-Time": 17,
+				"time": [
+					{
+						"Start-Time": 8,
+						"End-Time": 17
+					}
+				],
 				"Season": [
 					7,
 					8
 				],
-				"price":500
+				"price": 500
 			},
 			{
 				"name": "Walker cicada",
-				"Start-time": 8,
-				"End-Time": 17,
+				"time": [
+					{
+						"Start-Time": 8,
+						"End-Time": 17
+					}
+				],
 				"Season": [
 					7,
 					8
 				],
-				"price":400
+				"price": 400
 			},
 			{
 				"name": "cicada shell",
-				"Start-time": 0,
-				"End-Time": 24,
+				"time": [
+					{
+						"Start-Time": 0,
+						"End-Time": 24
+					}
+				],
 				"Season": [
 					7,
 					8
 				],
-				"price":10
+				"price": 10
 			},
 			{
 				"name": "Red Dragonfly",
-				"Start-time": 8,
-				"End-Time": 19,
+				"time": [
+					{
+						"Start-Time": 8,
+						"End-Time": 19
+					}
+				],
 				"Season": [
 					9,
 					10
 				],
-				"price":180
+				"price": 180
 			},
 			{
 				"name": "Darner Dragonfly",
-				"Start-time": 8,
-				"End-Time": 17,
+				"time": [
+					{
+						"Start-Time": 8,
+						"End-Time": 17
+					}
+				],
 				"Season": [
 					4,
 					5,
@@ -492,12 +1187,16 @@
 					9,
 					10
 				],
-				"price":230
+				"price": 230
 			},
 			{
 				"name": "Banded Dragonfly",
-				"Start-time": 8,
-				"End-Time": 17,
+				"time": [
+					{
+						"Start-Time": 8,
+						"End-Time": 17
+					}
+				],
 				"Season": [
 					5,
 					6,
@@ -506,12 +1205,16 @@
 					9,
 					10
 				],
-				"price":4500
+				"price": 4500
 			},
 			{
 				"name": "Mole cricket",
-				"Start-time": 0,
-				"End-Time": 24,
+				"time": [
+					{
+						"Start-Time": 0,
+						"End-Time": 24
+					}
+				],
 				"Season": [
 					1,
 					2,
@@ -521,12 +1224,16 @@
 					11,
 					12
 				],
-				"price":500
+				"price": 500
 			},
 			{
 				"name": "Pondskater",
-				"Start-time": 8,
-				"End-Time": 19,
+				"time": [
+					{
+						"Start-Time": 8,
+						"End-Time": 19
+					}
+				],
 				"Season": [
 					5,
 					6,
@@ -534,12 +1241,16 @@
 					8,
 					9
 				],
-				"price":130
+				"price": 130
 			},
 			{
 				"name": "Diving beetle",
-				"Start-time": 8,
-				"End-Time": 19,
+				"time": [
+					{
+						"Start-Time": 8,
+						"End-Time": 19
+					}
+				],
 				"Season": [
 					5,
 					6,
@@ -547,12 +1258,16 @@
 					8,
 					9
 				],
-				"price":800
+				"price": 800
 			},
 			{
 				"name": "Jewel Beetle",
-				"Start-time": 0,
-				"End-Time": 24,
+				"time": [
+					{
+						"Start-Time": 0,
+						"End-Time": 24
+					}
+				],
 				"Season": [
 					4,
 					5,
@@ -560,12 +1275,16 @@
 					7,
 					8
 				],
-				"price":2400
+				"price": 2400
 			},
 			{
 				"name": "Violin Beetle",
-				"Start-time": 7,
-				"End-Time": 19,
+				"time": [
+					{
+						"Start-Time": 7,
+						"End-Time": 19
+					}
+				],
 				"Season": [
 					5,
 					6,
@@ -573,12 +1292,16 @@
 					10,
 					11
 				],
-				"price":450
+				"price": 450
 			},
 			{
 				"name": "Citrus long horned beetle",
-				"Start-time": 0,
-				"End-Time": 24,
+				"time": [
+					{
+						"Start-Time": 0,
+						"End-Time": 24
+					}
+				],
 				"Season": [
 					1,
 					2,
@@ -593,12 +1316,16 @@
 					11,
 					12
 				],
-				"price":350
+				"price": 350
 			},
 			{
 				"name": "Rosalia Batesi beetle",
-				"Start-time": 0,
-				"End-Time": 24,
+				"time": [
+					{
+						"Start-Time": 0,
+						"End-Time": 24
+					}
+				],
 				"Season": [
 					5,
 					6,
@@ -606,65 +1333,89 @@
 					8,
 					9
 				],
-				"price":3000
+				"price": 3000
 			},
 			{
 				"name": "Dung beetle",
-				"Start-time": 0,
-				"End-Time": 24,
+				"time": [
+					{
+						"Start-Time": 0,
+						"End-Time": 24
+					}
+				],
 				"Season": [
 					1,
 					2,
 					12
 				],
-				"price":3000
+				"price": 3000
 			},
 			{
 				"name": "Earth-boring dung beetle",
-				"Start-time": 0,
-				"End-Time": 24,
+				"time": [
+					{
+						"Start-Time": 0,
+						"End-Time": 24
+					}
+				],
 				"Season": [
 					1,
 					2,
 					12
 				],
-				"price":300
+				"price": 300
 			},
 			{
 				"name": "Saw Stag",
-				"Start-time": 0,
-				"End-Time": 24,
+				"time": [
+					{
+						"Start-Time": 0,
+						"End-Time": 24
+					}
+				],
 				"Season": [
 					7,
 					8
 				],
-				"price":2000
+				"price": 2000
 			},
 			{
 				"name": "Miyama stag",
-				"Start-time": 0,
-				"End-Time": 24,
+				"time": [
+					{
+						"Start-Time": 0,
+						"End-Time": 24
+					}
+				],
 				"Season": [
 					7,
 					8
 				],
-				"price":1000
+				"price": 1000
 			},
 			{
 				"name": "Walking leaf",
-				"Start-time": 0,
-				"End-Time": 24,
+				"time": [
+					{
+						"Start-Time": 0,
+						"End-Time": 24
+					}
+				],
 				"Season": [
 					7,
 					8,
 					9
 				],
-				"price":600
+				"price": 600
 			},
 			{
 				"name": "Ant",
-				"Start-time": 0,
-				"End-Time": 24,
+				"time": [
+					{
+						"Start-Time": 0,
+						"End-Time": 24
+					}
+				],
 				"Season": [
 					1,
 					2,
@@ -679,12 +1430,16 @@
 					11,
 					12
 				],
-				"price":80
+				"price": 80
 			},
 			{
 				"name": "Fly",
-				"Start-time": 0,
-				"End-Time": 24,
+				"time": [
+					{
+						"Start-Time": 0,
+						"End-Time": 24
+					}
+				],
 				"Season": [
 					1,
 					2,
@@ -699,12 +1454,16 @@
 					11,
 					12
 				],
-				"price":60
+				"price": 60
 			},
 			{
 				"name": "Flea",
-				"Start-time": 0,
-				"End-Time": 24,
+				"time": [
+					{
+						"Start-Time": 0,
+						"End-Time": 24
+					}
+				],
 				"Season": [
 					4,
 					5,
@@ -715,14 +1474,18 @@
 					10,
 					11
 				],
-				"price":70
+				"price": 70
 			}
 		],
 		"fish": [
 			{
 				"name": "Bluegill",
-				"Start-time": 0,
-				"End-Time": 24,
+				"time": [
+					{
+						"Start-Time": 0,
+						"End-Time": 24
+					}
+				],
 				"Season": [
 					3,
 					4,
