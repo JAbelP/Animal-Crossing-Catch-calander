@@ -558,7 +558,142 @@
 					11
 				]
 			},
-			
+			{
+				"name": "Citrus long horned beetle",
+				"Start-time": 0,
+				"End-Time": 24,
+				"Season": [
+					1,
+					2,
+					3,
+					4,
+					5,
+					6,
+					7,
+					8,
+					9,
+					10,
+					11,
+					12
+				]
+			},
+			{
+				"name": "Rosalia Batesi beetle",
+				"Start-time": 0,
+				"End-Time": 24,
+				"Season": [
+				
+					5,
+					6,
+					7,
+					8,
+					9
+				]
+			},
+			{
+				"name": "Dung beetle",
+				"Start-time": 0,
+				"End-Time": 24,
+				"Season": [
+					1,
+					2,
+					12
+				]
+			},
+					{
+				"name": "Earth-boring dung beetle",
+				"Start-time": 0,
+				"End-Time": 24,
+				"Season": [
+					1,
+					2
+					12
+				]
+			},		
+			{
+				"name": "Saw Stag",
+				"Start-time": 0,
+				"End-Time": 24,
+				"Season": [
+					7,
+					8
+				]
+			},
+			{
+				"name": "Miyama stag",
+				"Start-time": 0,
+				"End-Time": 24,
+				"Season": [
+					7,
+					8
+				]
+			},
+					{
+				"name": "Walking leaf",
+				"Start-time": 0,
+				"End-Time": 24,
+				"Season": [
+					7,
+					8,
+					9
+				]
+			},
+			{
+				"name": "Ant",
+				"Start-time": 0,
+				"End-Time": 24,
+				"Season": [
+					1,
+					2,
+					3,
+					4,
+					5,
+					6,
+					7,
+					8,
+					9,
+					10,
+					11,
+					12
+				]
+			},
+					{
+				"name": "Fly",
+				"Start-time": 0,
+				"End-Time": 24,
+				"Season": [
+					1,
+					2,
+					3,
+					4,
+					5,
+					6,
+					7,
+					8,
+					9,
+					10,
+					11,
+					12
+				]
+			},
+		
+				{
+				"name": "Flea",
+				"Start-time": 0,
+				"End-Time": 24,
+				"Season": [
+					
+					4,
+					5,
+					6,
+					7,
+					8,
+					9,
+					10,
+					11
+				]
+			},
+
 			
 		"fish": [
 			{
