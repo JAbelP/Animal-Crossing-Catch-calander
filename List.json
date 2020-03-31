@@ -1559,6 +1559,352 @@
 				"name": "Bluegill",
 				"time": [
 					{
+						"Start-Time": 9,
+						"End-Time": 16
+					}
+				],
+				"Season": [
+					1,
+					2,
+					3,
+					4,
+					5,
+					6,
+					7,
+					8,
+					9,
+					10,
+					11,
+					12
+				],
+				"Location": "River",
+				"price": 180,
+				"shadow": 2
+			},
+			{
+				"name": "Bitterling",
+				"time": [
+					{
+						"Start-Time": 0,
+						"End-Time": 24
+					}
+				],
+				"Season": [
+					1,
+					2,
+					3
+				],
+				"Location": "River",
+				"price": 900,
+				"shadow": 1
+			},
+			{
+				"name": "Pale chub",
+				"time": [
+					{
+						"Start-Time": 9,
+						"End-Time": 16
+					}
+				],
+				"Season": [
+					1,
+					2,
+					3,
+					4,
+					5,
+					6,
+					7,
+					8,
+					9,
+					10,
+					11,
+					12
+				],
+				"Location": "River",
+				"price": 200,
+				"shadow": 1
+			},
+			{
+				"name": "Crucian carp",
+				"time": [
+					{
+						"Start-Time": 0,
+						"End-Time": 24
+					}
+				],
+				"Season": [
+					1,
+					2,
+					3,
+					4,
+					5,
+					6,
+					7,
+					8,
+					9,
+					10,
+					11,
+					12
+				],
+				"Location": "River",
+				"price": 160,
+				"shadow": 2
+			},
+			{
+				"name": "Dace",
+				"price": 200,
+				"Location": "River",
+				"shadow": 3,
+				"time": [
+					{
+						"Start-Time": 16,
+						"End-Time": 24
+					},
+					{
+						"Start-Time": 0,
+						"End-Time": 9
+					}
+				],
+				"Season": [
+					1,
+					2,
+					3,
+					4,
+					5,
+					6,
+					7,
+					8,
+					9,
+					10,
+					11,
+					12
+				]
+			},
+			{
+				"name": "Carp",
+				"price": 300,
+				"Location": "Pond",
+				"shadow": 4,
+				"time": [
+					{
+						"Start-Time": 0,
+						"End-Time": 24
+					}
+				],
+				"Season": [
+					1,
+					2,
+					3,
+					4,
+					5,
+					6,
+					7,
+					8,
+					9,
+					10,
+					11,
+					12
+				]
+			},
+			{
+				"name": "Koi",
+				"price": 4000,
+				"Location": "Pond",
+				"shadow": 4,
+				"time": [
+					{
+						"Start-Time": 16,
+						"End-Time": 24
+					},
+					{
+						"Start-Time": 0,
+						"End-Time": 9
+					}
+				],
+				"Season": [
+					1,
+					2,
+					3,
+					4,
+					5,
+					6,
+					7,
+					8,
+					9,
+					10,
+					11,
+					12
+				]
+			},
+			{
+				"name": "Goldfish",
+				"price": 1300,
+				"Location": "Pond",
+				"shadow": 1,
+				"time": [
+					{
+						"Start-Time": 0,
+						"End-Time": 24
+					}
+				],
+				"Season": [
+					1,
+					2,
+					3,
+					4,
+					5,
+					6,
+					7,
+					8,
+					9,
+					10,
+					11,
+					12
+				]
+			},
+			{
+				"name": "Pop-eyed goldfish",
+				"price": 1300,
+				"Location": "Pond",
+				"shadow": 1,
+				"time": [
+					{
+						"Start-Time": 9,
+						"End-Time": 16
+					}
+				],
+				"Season": [
+					1,
+					2,
+					3,
+					4,
+					5,
+					6,
+					7,
+					8,
+					9,
+					10,
+					11,
+					12
+				]
+			},
+			{
+				"name": "Ranchu goldfish",
+				"price": 4500,
+				"Location": "Pond",
+				"shadow": 2,
+				"time": [
+					{
+						"Start-Time": 9,
+						"End-Time": 16
+					}
+				],
+				"Season": [
+					1,
+					2,
+					3,
+					4,
+					5,
+					6,
+					7,
+					8,
+					9,
+					10,
+					11,
+					12
+				]
+			},
+			{
+				"name": "Killifish",
+				"price": 300,
+				"Location": "Pond",
+				"shadow": 1,
+				"time": [
+					{
+						"Start-Time": 0,
+						"End-Time": 24
+					}
+				],
+				"Season": [
+					4,
+					5,
+					6,
+					7,
+					8
+				]
+			},
+			{
+				"name": "Crawfish",
+				"price": 200,
+				"Location": "Pond",
+				"shadow": 2,
+				"time": [
+					{
+						"Start-Time": 0,
+						"End-Time": 24
+					}
+				],
+				"Season": [
+					4,
+					5,
+					6,
+					7,
+					8,
+					9
+				]
+			},
+			{
+				"name": "Soft-shelled turtle",
+				"price": 3750,
+				"Location": "River",
+				"shadow": 4,
+				"time": [
+					{
+						"Start-Time": 16,
+						"End-Time": 24
+					},
+					{
+						"Start-Time": 0,
+						"End-Time": 9
+					}
+				],
+				"Season": [
+					8,
+					9
+				]
+			},
+			{
+				"name": "Snapping Turtle",
+				"price": 5000,
+				"Location": "River",
+				"shadow": 5,
+				"time": [
+					{
+						"Start-Time": 16,
+						"End-Time": 24
+					},
+					{
+						"Start-Time": 0,
+						"End-Time": 9
+					}
+				],
+				"Season": [
+					4,
+					5,
+					6,
+					7,
+					8,
+					9,
+					10
+				]
+			},
+			{
+				"name": "Tadpole",
+				"price": 100,
+				"Location": "Pond",
+				"shadow": 1,
+				"time": [
+					{
 						"Start-Time": 0,
 						"End-Time": 24
 					}
@@ -1569,8 +1915,869 @@
 					5,
 					6,
 					7
+				]
+			},
+			{
+				"name": "Frog",
+				"price": 120,
+				"Location": "Pond",
+				"shadow": 4,
+				"time": [
+					{
+						"Start-Time": 0,
+						"End-Time": 24
+					}
 				],
-				"Location": "River"
+				"Season": [
+					5,
+					6,
+					7,
+					8
+				]
+			},
+			{
+				"name": "Freshwater Goby",
+				"price": 400,
+				"Location": "River",
+				"shadow": 2,
+				"time": [
+					{
+						"Start-Time": 16,
+						"End-Time": 24
+					},
+					{
+						"Start-Time": 0,
+						"End-Time": 9
+					}
+				],
+				"Season": [
+					1,
+					2,
+					3,
+					4,
+					5,
+					6,
+					7,
+					8,
+					9,
+					10,
+					11,
+					12
+				]
+			},
+			{
+				"name": "Loach",
+				"price": 400,
+				"Location": "River",
+				"shadow": 2,
+				"time": [
+					{
+						"Start-Time": 0,
+						"End-Time": 24
+					}
+				],
+				"Season": [
+					3,
+					4,
+					5
+				]
+			},
+			{
+				"name": "Catfish",
+				"price": 800,
+				"Location": "Pond",
+				"shadow": 4,
+				"time": [
+					{
+						"Start-Time": 16,
+						"End-Time": 24
+					},
+					{
+						"Start-Time": 0,
+						"End-Time": 9
+					}
+				],
+				"Season": [
+					5,
+					6,
+					7,
+					8,
+					9,
+					10
+				]
+			},
+			{
+				"name": "Giant snakehead",
+				"price": 5500,
+				"Location": "Pond",
+				"shadow": 4,
+				"time": [
+					{
+						"Start-Time": 9,
+						"End-Time": 16
+					}
+				],
+				"Season": [
+					6,
+					7,
+					8
+				]
+			},
+			{
+				"name": "Yellow Perch",
+				"price": 300,
+				"Location": "River",
+				"shadow": 2,
+				"time": [
+					{
+						"Start-Time": 0,
+						"End-Time": 24
+					}
+				],
+				"Season": [
+					1,
+					2,
+					3,
+					10,
+					11,
+					12
+				]
+			},
+			{
+				"name": "Black Bass",
+				"price": 400,
+				"Location": "River",
+				"shadow": 4,
+				"time": [
+					{
+						"Start-Time": 0,
+						"End-Time": 24
+					}
+				],
+				"Season": [
+					1,
+					2,
+					3,
+					4,
+					5,
+					6,
+					7,
+					8,
+					9,
+					10,
+					11,
+					12
+				]
+			},
+			{
+				"name": "Tilapia",
+				"price": 800,
+				"Location": "River",
+				"shadow": 3,
+				"time": [
+					{
+						"Start-Time": 0,
+						"End-Time": 24
+					}
+				],
+				"Season": [
+					6,
+					7,
+					8,
+					9,
+					10
+				]
+			},
+			{
+				"name": "Pike",
+				"price": 1800,
+				"Location": "River",
+				"shadow": 5,
+				"time": [
+					{
+						"Start-Time": 0,
+						"End-Time": 24
+					}
+				],
+				"Season": [
+					9,
+					10,
+					11,
+					12
+				]
+			},
+			{
+				"name": "Pond Smelt",
+				"price": 500,
+				"Location": "River",
+				"shadow": 2,
+				"time": [
+					{
+						"Start-Time": 0,
+						"End-Time": 24
+					}
+				],
+				"Season": [
+					1,
+					2,
+					12
+				]
+			},
+			{
+				"name": "Sweetfish",
+				"price": 900,
+				"Location": "River",
+				"shadow": 3,
+				"time": [
+					{
+						"Start-Time": 0,
+						"End-Time": 24
+					}
+				],
+				"Season": [
+					3,
+					4,
+					5,
+					6,
+					9,
+					10,
+					11
+				]
+			},
+			{
+				"name": "Cherry Salmon",
+				"price": 1000,
+				"Location": "River (Cliftop) Pond",
+				"shadow": 3,
+				"time": [
+					{
+						"Start-Time": 0,
+						"End-Time": 24
+					}
+				],
+				"Season": [
+					3,
+					4,
+					5,
+					6,
+					9,
+					10,
+					11
+				]
+			},
+			{
+				"name": "Char",
+				"price": 3800,
+				"Location": "River (Cliftop) Pond",
+				"shadow": 3,
+				"time": [
+					{
+						"Start-Time": 16,
+						"End-Time": 24
+					},
+					{
+						"Start-Time": 0,
+						"End-Time": 9
+					}
+				],
+				"Season": [
+					3,
+					4,
+					5,
+					6,
+					9,
+					10,
+					11
+				]
+			},
+			{
+				"name": "Golden Trout",
+				"price": 15000,
+				"Location": "River (Cliftop)",
+				"shadow": 3,
+				"time": [
+					{
+						"Start-Time": 16,
+						"End-Time": 24
+					},
+					{
+						"Start-Time": 0,
+						"End-Time": 9
+					}
+				],
+				"Season": [
+					3,
+					4,
+					5,
+					9,
+					10,
+					11,
+					12
+				]
+			},
+			{
+				"name": "Stingfish",
+				"price": 15000,
+				"Location": "River (Cliftop)",
+				"shadow": 4,
+				"time": [
+					{
+						"Start-Time": 16,
+						"End-Time": 24
+					},
+					{
+						"Start-Time": 0,
+						"End-Time": 9
+					}
+				],
+				"Season": [
+					1,
+					2,
+					3,
+					12
+				]
+			},
+			{
+				"name": "Salmon",
+				"price": 700,
+				"Location": "River (Mouth)",
+				"shadow": 4,
+				"time": [
+					{
+						"Start-Time": 0,
+						"End-Time": 24
+					}
+				],
+				"Season": [
+					9
+				]
+			},
+			{
+				"name": "King Salmon",
+				"price": 1800,
+				"Location": "River (Mouth)",
+				"shadow": 6,
+				"time": [
+					{
+						"Start-Time": 0,
+						"End-Time": 24
+					}
+				],
+				"Season": [
+					9
+				]
+			},
+			{
+				"name": "Miten Crab",
+				"price": 2000,
+				"Location": "River",
+				"shadow": 2,
+				"time": [
+					{
+						"Start-Time": 16,
+						"End-Time": 24
+					},
+					{
+						"Start-Time": 0,
+						"End-Time": 9
+					}
+				],
+				"Season": [
+					1,
+					2,
+					3,
+					4,
+					5,
+					6,
+					7,
+					8,
+					9,
+					10,
+					11,
+					12
+				]
+			},
+			{
+				"name": "Guppy",
+				"price": 1300,
+				"Location": "River",
+				"shadow": 1,
+				"time": [
+					{
+						"Start-Time": 9,
+						"End-Time": 16
+					}
+				],
+				"Season": [
+					4,
+					5,
+					6,
+					7,
+					8,
+					9,
+					10,
+					11
+				]
+			},
+			{
+				"name": "Nibble Fish",
+				"price": 1500,
+				"Location": "Pond",
+				"shadow": 1,
+				"time": [
+					{
+						"Start-Time": 9,
+						"End-Time": 16
+					}
+				],
+				"Season": [
+					5,
+					6,
+					7,
+					8,
+					9
+				]
+			},
+			{
+				"name": "Angelfish",
+				"price": 3000,
+				"Location": "River",
+				"shadow": 2,
+				"time": [
+					{
+						"Start-Time": 16,
+						"End-Time": 24
+					},
+					{
+						"Start-Time": 0,
+						"End-Time": 9
+					}
+				],
+				"Season": [
+					5,
+					6,
+					7,
+					8,
+					9,
+					10
+				]
+			},
+			{
+				"name": "Betta",
+				"price": 2500,
+				"Location": "River",
+				"shadow": 2,
+				"time": [
+					{
+						"Start-Time": 9,
+						"End-Time": 16
+					}
+				],
+				"Season": [
+					5,
+					6,
+					7,
+					8,
+					9,
+					10
+				]
+			},
+			{
+				"name": "Neon Tetra",
+				"price": 500,
+				"Location": "River",
+				"shadow": 1,
+				"time": [
+					{
+						"Start-Time": 9,
+						"End-Time": 16
+					}
+				],
+				"Season": [
+					4,
+					5,
+					6,
+					7,
+					8,
+					9,
+					10,
+					11
+				]
+			},
+			{
+				"name": "Rainbowfish",
+				"price": 800,
+				"Location": "River",
+				"shadow": 1,
+				"time": [
+					{
+						"Start-Time": 9,
+						"End-Time": 16
+					}
+				],
+				"Season": [
+					5,
+					6,
+					7,
+					8,
+					9,
+					10
+				]
+			},
+			{
+				"name": "Piranha",
+				"price": 2500,
+				"Location": "River",
+				"shadow": 2,
+				"time": [
+					{
+						"Start-Time": 9,
+						"End-Time": 16
+					},
+					{
+						"Start-Time": 21,
+						"End-Time": 24
+					},
+					{
+						"Start-Time": 0,
+						"End-Time": 9
+					}
+				],
+				"Season": [
+					6,
+					7,
+					8,
+					9
+				]
+			},
+			{
+				"name": "Arowana",
+				"price": 10000,
+				"Location": "River",
+				"shadow": 4,
+				"time": [
+					{
+						"Start-Time": 16,
+						"End-Time": 24
+					},
+					{
+						"Start-Time": 0,
+						"End-Time": 9
+					}
+				],
+				"Season": [
+					6,
+					7,
+					8,
+					9
+				]
+			},
+			{
+				"name": "Dorado",
+				"price": 15000,
+				"Location": "River",
+				"shadow": 5,
+				"time": [
+					{
+						"Start-Time": 4,
+						"End-Time": 21
+					}
+				],
+				"Season": [
+					6,
+					7,
+					8,
+					9
+				]
+			},
+			{
+				"name": "Gar",
+				"price": 6000,
+				"Location": "Pond",
+				"shadow": 6,
+				"time": [
+					{
+						"Start-Time": 16,
+						"End-Time": 24
+					},
+					{
+						"Start-Time": 0,
+						"End-Time": 9
+					}
+				],
+				"Season": [
+					6,
+					7,
+					8,
+					9
+				]
+			},
+			{
+				"name": "Arapaima",
+				"price": 10000,
+				"Location": "River (Mouth)",
+				"shadow": 6,
+				"time": [
+					{
+						"Start-Time": 0,
+						"End-Time": 24
+					}
+				],
+				"Season": [
+					6,
+					7,
+					8,
+					9
+				]
+			},
+			{
+				"name": "Saddled Bichir",
+				"price": 4000,
+				"Location": "River",
+				"shadow": 4,
+				"time": [
+					{
+						"Start-Time": 16,
+						"End-Time": 24
+					},
+					{
+						"Start-Time": 0,
+						"End-Time": 9
+					}
+				],
+				"Season": [
+					6,
+					7,
+					8,
+					9
+				]
+			},
+			{
+				"name": "Sturgeon",
+				"price": 10000,
+				"Location": "River (Mouth)",
+				"shadow": 6,
+				"time": [
+					{
+						"Start-Time": 0,
+						"End-Time": 24
+					}
+				],
+				"Season": [
+					1,
+					2,
+					3,
+					9,
+					10,
+					11,
+					12
+				]
+			},
+			{
+				"name": "Sea Butterfly",
+				"price": 1000,
+				"Location": "Sea",
+				"shadow": 1,
+				"time": [
+					{
+						"Start-Time": 0,
+						"End-Time": 24
+					}
+				],
+				"Season": [
+					1,
+					2,
+					3,
+					12
+				]
+			},
+			{
+				"name": "Sea Horse",
+				"price": 1100,
+				"Location": "Sea",
+				"shadow": 1,
+				"time": [
+					{
+						"Start-Time": 0,
+						"End-Time": 24
+					}
+				],
+				"Season": [
+					4,
+					5,
+					6,
+					7,
+					8,
+					9,
+					10,
+					11
+				]
+			},
+			{
+				"name": "Clown Fish",
+				"price": 650,
+				"Location": "Sea",
+				"shadow": 1,
+				"time": [
+					{
+						"Start-Time": 0,
+						"End-Time": 24
+					}
+				],
+				"Season": [
+					4,
+					5,
+					6,
+					7,
+					8,
+					9
+				]
+			},
+			{
+				"name": "Surgeonfish",
+				"price": 1000,
+				"Location": "Sea",
+				"shadow": 2,
+				"time": [
+					{
+						"Start-Time": 0,
+						"End-Time": 24
+					}
+				],
+				"Season": [
+					4,
+					5,
+					6,
+					7,
+					8,
+					9
+				]
+			},
+			{
+				"name": "Butterfly Fish",
+				"price": 1000,
+				"Location": "Sea",
+				"shadow": 2,
+				"time": [
+					{
+						"Start-Time": 0,
+						"End-Time": 24
+					}
+				],
+				"Season": [
+					4,
+					5,
+					6,
+					7,
+					8,
+					9
+				]
+			},
+			{
+				"name": "Napoleonfish",
+				"price": 10000,
+				"Location": "Sea",
+				"shadow": 6,
+				"time": [
+					{
+						"Start-Time": 4,
+						"End-Time": 21
+					}
+				],
+				"Season": [
+					7,
+					8
+				]
+			},
+			{
+				"name": "Zebra Turkeyfish",
+				"price": 500,
+				"Location": "Sea",
+				"shadow": 3,
+				"time": [
+					{
+						"Start-Time": 0,
+						"End-Time": 24
+					}
+				],
+				"Season": [
+					4,
+					5,
+					6,
+					7,
+					8,
+					9,
+					10,
+					11
+				]
+			},
+			{
+				"name": "Blowfish",
+				"price": 5000,
+				"Location": "Sea",
+				"shadow": 3,
+				"time": [
+					{
+						"Start-Time": 18,
+						"End-Time": 24
+					},
+					{
+						"Start-Time": 0,
+						"End-Time": 4
+					}
+				],
+				"Season": [
+					1,
+					2,
+					11,
+					12
+				]
+			},
+			{
+				"name": "Puffer fish",
+				"price": 250,
+				"Location": "Sea",
+				"shadow": 2,
+				"time": [
+					{
+						"Start-Time": 0,
+						"End-Time": 24
+					}
+				],
+				"Season": [
+					8,
+					9
+				]
+			},
+			{
+				"name": "Koi",
+				"price": 4000,
+				"Location": "Pond",
+				"shadow": 4,
+				"time": [
+					{
+						"Start-Time": 16,
+						"End-Time": 24
+					},
+					{
+						"Start-Time": 0,
+						"End-Time": 9
+					}
+				],
+				"Season": [
+					1,
+					2,
+					3,
+					4,
+					5,
+					6,
+					7,
+					8,
+					9,
+					10,
+					11,
+					12
+				]
 			}
 		]
 	}
