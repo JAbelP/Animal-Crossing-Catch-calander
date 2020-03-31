@@ -1,5 +1,6 @@
 import json
 import datetime
+import time
 
 
 
@@ -18,7 +19,7 @@ timeMonth= None
 
 class Bug:
 
-     def __init__(self,Ctype,name,time,Months,location,price=0):
+     def __init__(self,Ctype,name,time,Months,location,price=0,org=0):
         self.name      = name
         self.type      = Ctype
         self.time      = time
@@ -27,15 +28,28 @@ class Bug:
         self.price     = price
         self.flickPrice= int(price*1.50)
         self.afterHourPrice = int(price*.80)
+        self.org=org
 
      def printNoDetail(self):
         return "Name: {}\nPrice: {}\nflick's price: {}\nAfter hour price: {}".format(self.name,self.price,self.flickPrice,self.afterHourPrice)
 
      def __str__(self):
-        return "Type: {} \nName: {} \nSeasons avaliable: {}\nWhere to find: {}".format(self.type,self.name,self.Months,self.location)
+        return "Type: {} \nName: {} \nSeasons avaliable: {}\nWhere to find: {}\nPrice:{}".format(self.type,self.name,self.Months,self.location,self.price)
+     def __lt__(self,other):
+         '''
+            if org is 0 , it will sort based on name.
+            if org is 1 sort based on (nook) value 
+         <
+         '''
+         if (self.org == 0):
+             return self.name <other.name
+         if(self.org == 1):
+            return self.price > other.price
+        
+
 
 class Fish:
-    def __init__(self,Ctype,name,time,month,Location,price,shadow):
+    def __init__(self,Ctype,name,time,month,Location,price,shadow,fin=False,org = 0):
         self.name      = name
         self.type      = Ctype
         self.time      = time
@@ -43,10 +57,27 @@ class Fish:
         self.Location  = Location
         self.price     = price
         self.shadow    = shadow
+        self.fin       = fin
         self.cjPrice   = int(price*1.50)
         self.afterHourPrice = int(price*.80)
+        self.org = org
     def __str__(self):
-        return "Type: {} \nName: {} \nLocations: {}\nlook for {} shadows\nSeasons avaliable: {}".format(self.type,self.name,self.Location,self.shadow,self.month)
+        if(self.fin == False):
+            return "Type: {} \nName: {} \nLocations: {}\nlook for a size {} shadow\nSeasons avaliable: {}\nPrice: {}".format(self.type,self.name,self.Location,self.shadow,self.month,self.price)
+        else:
+            return "Type: {} \nName: {} \nLocations: {}\nlook for a size {} shadow with a fin! \nSeasons avaliable: {}\nPrice:".format(self.type,self.name,self.Location,self.shadow,self.month,self.price)
+
+    def __lt__(self,other):
+         '''
+            if org is 0 , it will sort based on name.
+            if org is 1 sort based on (nook) value 
+         <
+         '''
+         if (self.org == 0):
+             return self.name <other.name
+         if(self.org == 1):
+            return self.price > other.price
+
 
 
 def createList():
@@ -58,7 +89,11 @@ def createList():
         for b in data['type']['bug']:
             Bugs.append(Bug("Bug",b['name'],b['time'],b['Season'],b['Location'],b['price']))
         for f in data['type']['fish']:
-            Fishes.append(Fish("Fish",f['name'],f['time'],f['Season'],f['Location'],f['price'],f['shadow']))
+            finfin = 'fin' in f
+            if finfin == True:
+                  Fishes.append(Fish("Fish",f['name'],f['time'],f['Season'],f['Location'],f['price'],f['shadow'],f['fin']))
+            else:
+                 Fishes.append(Fish("Fish",f['name'],f['time'],f['Season'],f['Location'],f['price'],f['shadow']))  
             #Debug
             '''
             print("----------")
@@ -116,15 +151,38 @@ def whatIsAvaliableBTime():
                     FishesA.append(creature)
 
 
+
 createList()
 whatIsAvaliableBTime()
-counter = 0
+
 for insect in BugsA:
         print("---------------")
         print(insect)
 print("\n\n\n\n\n")
+
+print("\n\n\n\n\n\nCheck it nerd\n\n\n\n")
+
+for insect in BugsA:
+    insect.org = 1
+    
+
+BugsA.sort()
+for insect in BugsA:
+        print("---------------")
+        print(insect)
+print("\n\n\n\n\n")
+FishesA.sort()
+for creature in FishesA:
+    creature.org = 1
+FishesA.sort()
+
 for creature in FishesA:
     print("^^^^^^^^^^^^^")
     print(creature)
 
+'''
+for creature in FishesA:
+    print("^^^^^^^^^^^^^")
+    print(creature)
+'''
 
