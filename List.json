@@ -1556,30 +1556,27 @@
 		],
 		"fish": [
 			{
-				"name": "Bluegill",
+				"name": "Great white shark",
+				"price": 15000,
+				"Location": "Sea",
+				"shadow": 6,
+				"fin": true,
 				"time": [
 					{
-						"Start-Time": 9,
-						"End-Time": 16
+						"Start-Time": 16,
+						"End-Time": 24
+					},
+					{
+						"Start-Time": 0,
+						"End-Time": 9
 					}
 				],
 				"Season": [
-					1,
-					2,
-					3,
-					4,
-					5,
 					6,
 					7,
 					8,
-					9,
-					10,
-					11,
-					12
-				],
-				"Location": "River",
-				"price": 180,
-				"shadow": 2
+					9
+				]
 			},
 			{
 				"name": "Bitterling",
@@ -2750,9 +2747,447 @@
 				]
 			},
 			{
-				"name": "Koi",
+				"name": "Anchovy",
+				"price": 200,
+				"Location": "Sea",
+				"shadow": 2,
+				"time": [
+					{
+						"Start-Time": 4,
+						"End-Time": 21
+					}
+				],
+				"Season": [
+					1,
+					2,
+					3,
+					4,
+					5,
+					6,
+					7,
+					8,
+					9,
+					10,
+					11,
+					12
+				]
+			},
+			{
+				"name": "Horse Mackerel",
+				"price": 150,
+				"Location": "Sea",
+				"shadow": 2,
+				"time": [
+					{
+						"Start-Time": 0,
+						"End-Time": 24
+					}
+				],
+				"Season": [
+					1,
+					2,
+					3,
+					4,
+					5,
+					6,
+					7,
+					8,
+					9,
+					10,
+					11,
+					12
+				]
+			},
+			{
+				"name": "Barred Knifejaw",
+				"price": 5000,
+				"Location": "Sea",
+				"shadow": 3,
+				"time": [
+					{
+						"Start-Time": 0,
+						"End-Time": 24
+					}
+				],
+				"Season": [
+					3,
+					4,
+					5,
+					6,
+					7,
+					8,
+					9,
+					10,
+					11
+				]
+			},
+			{
+				"name": "Sea Bass",
+				"price": 400,
+				"Location": "Sea",
+				"shadow": 5,
+				"time": [
+					{
+						"Start-Time": 0,
+						"End-Time": 24
+					}
+				],
+				"Season": [
+					1,
+					2,
+					3,
+					4,
+					5,
+					6,
+					7,
+					8,
+					9,
+					10,
+					11,
+					12
+				]
+			},
+			{
+				"name": "Red Snapper",
+				"price": 3000,
+				"Location": "Sea",
+				"shadow": 4,
+				"time": [
+					{
+						"Start-Time": 0,
+						"End-Time": 24
+					}
+				],
+				"Season": [
+					1,
+					2,
+					3,
+					4,
+					5,
+					6,
+					7,
+					8,
+					9,
+					10,
+					11,
+					12
+				]
+			},
+			{
+				"name": "Dab",
+				"price": 300,
+				"Location": "Sea",
+				"shadow": 3,
+				"time": [
+					{
+						"Start-Time": 0,
+						"End-Time": 24
+					}
+				],
+				"Season": [
+					1,
+					2,
+					3,
+					4,
+					10,
+					11,
+					12
+				]
+			},
+			{
+				"name": "Olive Flounder",
+				"price": 800,
+				"Location": "Sea",
+				"shadow": 5,
+				"time": [
+					{
+						"Start-Time": 0,
+						"End-Time": 24
+					}
+				],
+				"Season": [
+					1,
+					2,
+					3,
+					4,
+					5,
+					6,
+					7,
+					8,
+					9,
+					10,
+					11,
+					12
+				]
+			},
+			{
+				"name": "Squid",
+				"price": 500,
+				"Location": "Sea",
+				"shadow": 3,
+				"time": [
+					{
+						"Start-Time": 0,
+						"End-Time": 24
+					}
+				],
+				"Season": [
+					1,
+					2,
+					3,
+					4,
+					5,
+					6,
+					7,
+					8,
+					12
+				]
+			},
+			{
+				"name": "Moray Eel",
+				"price": 2000,
+				"Location": "Sea",
+				"shadow": 0,
+				"time": [
+					{
+						"Start-Time": 0,
+						"End-Time": 24
+					}
+				],
+				"Season": [
+					8,
+					9,
+					10
+				]
+			},
+			{
+				"name": "Ribbon Eel",
+				"price": 600,
+				"Location": "Sea",
+				"shadow": 0,
+				"time": [
+					{
+						"Start-Time": 0,
+						"End-Time": 24
+					}
+				],
+				"Season": [
+					6,
+					7,
+					8,
+					9,
+					10
+				]
+			},
+			{
+				"name": "Tuna",
+				"price": 7000,
+				"Location": "Pier",
+				"shadow": 6,
+				"time": [
+					{
+						"Start-Time": 0,
+						"End-Time": 24
+					}
+				],
+				"Season": [
+					1,
+					2,
+					3,
+					4,
+					11,
+					12
+				]
+			},
+			{
+				"name": "Blue Marlin",
+				"price": 10000,
+				"Location": "Pier",
+				"shadow": 6,
+				"time": [
+					{
+						"Start-Time": 0,
+						"End-Time": 24
+					}
+				],
+				"Season": [
+					1,
+					2,
+					3,
+					4,
+					7,
+					8,
+					9,
+					11,
+					12
+				]
+			},
+			{
+				"name": "Giant Trevally",
+				"price": 4500,
+				"Location": "pier",
+				"shadow": 5,
+				"time": [
+					{
+						"Start-Time": 0,
+						"End-Time": 24
+					}
+				],
+				"Season": [
+					5,
+					6,
+					7,
+					8,
+					9,
+					10
+				]
+			},
+			{
+				"name": "Mahi-Mahi",
+				"price": 6000,
+				"Location": "Pier",
+				"shadow": 5,
+				"time": [
+					{
+						"Start-Time": 0,
+						"End-Time": 24
+					}
+				],
+				"Season": [
+					5,
+					6,
+					7,
+					8,
+					9,
+					10
+				]
+			},
+			{
+				"name": "Ocean Sunfish",
 				"price": 4000,
-				"Location": "Pond",
+				"Location": "Sea",
+				"shadow": 6,
+				"fin": true,
+				"time": [
+					{
+						"Start-Time": 4,
+						"End-Time": 21
+					}
+				],
+				"Season": [
+					7,
+					8,
+					9
+				]
+			},
+			{
+				"name": "Ray",
+				"price": 3000,
+				"Location": "Sea",
+				"shadow": 5,
+				"time": [
+					{
+						"Start-Time": 4,
+						"End-Time": 21
+					}
+				],
+				"Season": [
+					6,
+					7,
+					8,
+					9,
+					10,
+					11
+				]
+			},
+			{
+				"name": "Saw Shark",
+				"price": 12000,
+				"Location": "Sea",
+				"shadow": 6,
+				"fin": true,
+				"time": [
+					{
+						"Start-Time": 16,
+						"End-Time": 24
+					},
+					{
+						"Start-Time": 0,
+						"End-Time": 9
+					}
+				],
+				"Season": [
+					6,
+					7,
+					8,
+					9
+				]
+			},
+			{
+				"name": "Hammerhead shark",
+				"price": 8000,
+				"Location": "Sea",
+				"shadow": 63,
+				"fin": true,
+				"time": [
+					{
+						"Start-Time": 16,
+						"End-Time": 24
+					},
+					{
+						"Start-Time": 0,
+						"End-Time": 9
+					}
+				],
+				"Season": [
+					6,
+					7,
+					8,
+					9
+				]
+			},
+			{
+				"name": "Whale Shark",
+				"price": 13000,
+				"Location": "Sea",
+				"shadow": 6,
+				"fin": true,
+				"time": [
+					{
+						"Start-Time": 0,
+						"End-Time": 24
+					}
+				],
+				"Season": [
+					6,
+					7,
+					8,
+					9
+				]
+			},
+			{
+				"name": "Suckerfish",
+				"price": 1500,
+				"Location": "Sea",
+				"shadow": 4,
+				"fin": true,
+				"time": [
+					{
+						"Start-Time": 0,
+						"End-Time": 24
+					}
+				],
+				"Season": [
+					6,
+					7,
+					8,
+					9
+				]
+			},
+			{
+				"name": "Football fish",
+				"price": 2500,
+				"Location": "Sea",
 				"shadow": 4,
 				"time": [
 					{
@@ -2762,6 +3197,45 @@
 					{
 						"Start-Time": 0,
 						"End-Time": 9
+					}
+				],
+				"Season": [
+					1,
+					2,
+					3,
+					11,
+					12
+				]
+			},
+			{
+				"name": "Oarfish",
+				"price": 9000,
+				"Location": "Sea",
+				"shadow": 3,
+				"time": [
+					{
+						"Start-Time": 0,
+						"End-Time": 24
+					}
+				],
+				"Season": [
+					1,
+					2,
+					3,
+					4,
+					5,
+					12
+				]
+			},
+			{
+				"name": "Coelacanth",
+				"price": 15000,
+				"Location": "Sea (Raining)",
+				"shadow": 6,
+				"time": [
+					{
+						"Start-Time": 0,
+						"End-Time": 24
 					}
 				],
 				"Season": [
