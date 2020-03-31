@@ -5,13 +5,8 @@ import datetime
 
 
 '''Things to add
-    Price of item (Nooks shop, after hours, and special buyer)
     List them based on price. 
     List them based on Name.
-    Add Fishes
-
-    Time issues:
-
 '''
 Bugs=[]
 Fishes = []
@@ -40,16 +35,18 @@ class Bug:
         return "Type: {} \nName: {} \nSeasons avaliable: {}\nWhere to find: {}".format(self.type,self.name,self.Months,self.location)
 
 class Fish:
-    def __init__(self,Ctype,name,startTime,endTime,month,Location):
+    def __init__(self,Ctype,name,time,month,Location,price,shadow):
         self.name      = name
         self.type      = Ctype
-        self.startTime = startTime
-        self.endTime   = endTime
+        self.time      = time
         self.month     = month
         self.Location  = Location
-
+        self.price     = price
+        self.shadow    = shadow
+        self.cjPrice   = int(price*1.50)
+        self.afterHourPrice = int(price*.80)
     def __str__(self):
-        return "Type: {} \nName: {} \nYou can start catching at: {}\nYou will no longer catch at: {}\nLocations: {}\nSeasons avaliable: {}".format(self.type,self.name,self.startTime,self.endTime,self.Location,self.month)
+        return "Type: {} \nName: {} \nLocations: {}\nlook for {} shadows\nSeasons avaliable: {}".format(self.type,self.name,self.Location,self.shadow,self.month)
 
 
 def createList():
@@ -60,6 +57,8 @@ def createList():
         #adding bugs to the list
         for b in data['type']['bug']:
             Bugs.append(Bug("Bug",b['name'],b['time'],b['Season'],b['Location'],b['price']))
+        for f in data['type']['fish']:
+            Fishes.append(Fish("Fish",f['name'],f['time'],f['Season'],f['Location'],f['price'],f['shadow']))
             #Debug
             '''
             print("----------")
@@ -100,36 +99,32 @@ def whatIsAvaliableBTime():
         if(timeMonth in insect.Months):
             for wake in insect.time:
                 wakeStart = wake['Start-Time']
-                WakeEnd   = wake['End-Time']       
-                if(wakeStart<timeHour and WakeEnd>timeHour):
+                WakeEnd   = wake['End-Time'] 
+
+                if(wakeStart<=timeHour and WakeEnd>=timeHour):
                     BugsA.append(insect)
  
 
 
     for creature in Fishes:
-        if (creature.startTime<timeHour and creature.endTime>timeHour):
-            if(timeMonth in creature.month):
-                FishesA.append(creature)
-    
-
-
-
-
+        if(timeMonth in creature.month):
+            for wake in creature.time:
+                wakeStart = wake['Start-Time']
+                WakeEnd   = wake['End-Time'] 
+                    
+                if(wakeStart<=timeHour and WakeEnd>=timeHour):
+                    FishesA.append(creature)
 
 
 createList()
 whatIsAvaliableBTime()
+counter = 0
 for insect in BugsA:
-    print(insect)
-    print("---------------")
-'''
-creatingList()
-whatIsAvaliableBTime()
-for insect in BugsA:
-    print(insect.printNoDetail())
-    print("---------------")
-
-'''
-
+        print("---------------")
+        print(insect)
+print("\n\n\n\n\n")
+for creature in FishesA:
+    print("^^^^^^^^^^^^^")
+    print(creature)
 
 
